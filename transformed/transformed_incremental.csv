@@ -1,0 +1,363 @@
+payment_method,category,revenue
+Cash_Transaction,Accessories,2497.7455564704032
+Cash_Transaction,Apps,104.101439916138
+Cash_Transaction,Audio,2212.266090414305
+Cash_Transaction,Automotive,257.701828137362
+Cash_Transaction,Beauty,1116.00983981199
+Cash_Transaction,Bicycles,8336.2796027319
+Cash_Transaction,Books,280.997297760653
+Cash_Transaction,Clothing,277.12684443918397
+Cash_Transaction,Clothing - Accessories,3179.7128724059744
+Cash_Transaction,Clothing - Activewear,138.020801294477
+Cash_Transaction,Clothing - Bottoms,347.461321950535
+Cash_Transaction,Clothing - Dresses,569.200810107349
+Cash_Transaction,Clothing - Footwear,160.985372807836
+Cash_Transaction,Clothing - Outerwear,2754.2053868365074
+Cash_Transaction,Clothing - Pants,248.75803950414303
+Cash_Transaction,Clothing - Sweaters,906.824053323993
+Cash_Transaction,Clothing - Tops,1779.5371527792822
+Cash_Transaction,Computers,116.91780207629101
+Cash_Transaction,Electronics,1662.4938492380838
+Cash_Transaction,Fitness,3121.1357243686753
+Cash_Transaction,Food,1436.4222512196939
+Cash_Transaction,Food - Baked Goods,13.947894752609
+Cash_Transaction,Food - Bakery,405.91768242290306
+Cash_Transaction,Food - Baking,281.328553784317
+Cash_Transaction,Food - Baking & Cooking,0.12053805527100002
+Cash_Transaction,Food - Baking Goods,141.850607138102
+Cash_Transaction,Food - Beverages,10.151130742820001
+Cash_Transaction,Food - Bread,4.006064588481
+Cash_Transaction,Food - Breakfast,84.99843992001401
+Cash_Transaction,Food - Canned Goods,130.002200900113
+Cash_Transaction,Food - Canned Soups,7.621221720986
+Cash_Transaction,Food - Cereals,0.11669890647799999
+Cash_Transaction,Food - Condiments,458.090021463978
+Cash_Transaction,Food - Confectionery,99.512259814638
+Cash_Transaction,Food - Dairy,102.636914476303
+Cash_Transaction,Food - Deli,2.0153373883760004
+Cash_Transaction,Food - Desserts,142.412708185588
+Cash_Transaction,Food - Dressings,15.815132746905002
+Cash_Transaction,Food - Fresh Produce,39.762688655079
+Cash_Transaction,Food - Frozen,93.505955500458
+Cash_Transaction,Food - Frozen Desserts,220.093199493297
+Cash_Transaction,Food - Frozen Food,52.75146345441001
+Cash_Transaction,Food - Frozen Foods,456.871513235949
+Cash_Transaction,Food - Frozen Meals,319.026897769167
+Cash_Transaction,Food - Grains,147.059702422983
+Cash_Transaction,Food - Household,205.191417645329
+Cash_Transaction,Food - Meal Kits,134.710788533202
+Cash_Transaction,Food - Meat,111.869721659214
+Cash_Transaction,Food - Oils,97.38915842310399
+Cash_Transaction,Food - Oils & Vinegars,23.845131043019
+Cash_Transaction,Food - Pasta,4.283788586204
+Cash_Transaction,Food - Prepared Foods,49.159692400896
+Cash_Transaction,Food - Prepared Meals,181.500953352644
+Cash_Transaction,Food - Produce,167.08234599227802
+Cash_Transaction,Food - Protein,44.698989813106
+Cash_Transaction,Food - Salad Toppings,38.307763758966004
+Cash_Transaction,Food - Salads,106.38234327825501
+Cash_Transaction,Food - Sauces,74.09334610502201
+Cash_Transaction,Food - Seafood,421.531797333011
+Cash_Transaction,Food - Sides,12.391061386305001
+Cash_Transaction,Food - Snacks,530.292835332567
+Cash_Transaction,Food - Soups,152.124561139212
+Cash_Transaction,Food - Spices,32.425242204948
+Cash_Transaction,Food - Spreads,190.98826844041702
+Cash_Transaction,Food - Vegetables,16.139176571910003
+Cash_Transaction,Gaming,11.100130294431999
+Cash_Transaction,Garden,586.1754208269231
+Cash_Transaction,Health,8987.299327080525
+Cash_Transaction,Home,2640.454268695374
+Cash_Transaction,Home Appliances,2884.521436647258
+Cash_Transaction,Kitchen,7865.7833022397035
+Cash_Transaction,Office,1544.560713339884
+Cash_Transaction,Outdoor,6391.538500045623
+Cash_Transaction,Pets,3805.948221351635
+Cash_Transaction,Photography,942.454198309513
+Cash_Transaction,Safety,187.66875496185997
+Cash_Transaction,Sports,1649.5762449897531
+Cash_Transaction,Toys,350.68395551259994
+Cash_Transaction,Travel,340.869055638864
+americanexpress,Accessories,222.747871625362
+americanexpress,Audio,501.828493854074
+americanexpress,Automotive,211.59659923496602
+americanexpress,Beauty,1187.6767771613493
+americanexpress,Clothing,125.17232421460001
+americanexpress,Clothing - Activewear,110.47486130647901
+americanexpress,Clothing - Bottoms,1373.700593746098
+americanexpress,Clothing - Dresses,688.5939475481189
+americanexpress,Clothing - Footwear,202.304189490081
+americanexpress,Clothing - Outerwear,55.691143400583
+americanexpress,Clothing - Shirts,950.115841582515
+americanexpress,Clothing - Tops,51.04795907009
+americanexpress,Crafts,402.04145160733395
+americanexpress,Electronics,1373.7624622945411
+americanexpress,Fitness,1241.845653042838
+americanexpress,Food - Bakery,372.091864991394
+americanexpress,Food - Baking,181.878497560556
+americanexpress,Food - Beverages,18.893866370848002
+americanexpress,Food - Canned Goods,117.03682564559799
+americanexpress,Food - Cheese,154.895623610266
+americanexpress,Food - Condiments,80.525242305182
+americanexpress,Food - Cooking Oils,80.952761028479
+americanexpress,Food - Dairy,61.894875280786
+americanexpress,Food - Desserts,28.285696701467998
+americanexpress,Food - Dips,7.795723555069
+americanexpress,Food - Frozen,182.124996044687
+americanexpress,Food - Frozen Food,95.15502039983102
+americanexpress,Food - Frozen Foods,154.75627432587402
+americanexpress,Food - Frozen Meals,0.534405332394
+americanexpress,Food - Fruits,23.041705116726
+americanexpress,Food - Grab-and-Go,21.469278933797
+americanexpress,Food - Grains,67.87320056271001
+americanexpress,Food - Health Foods,290.327771250638
+americanexpress,Food - Jams & Jellies,52.024763288543
+americanexpress,Food - Meat,266.461267251585
+americanexpress,Food - Meat & Seafood,25.250375786516003
+americanexpress,Food - Meats,76.373337682908
+americanexpress,Food - Nut Butters,78.56302940444701
+americanexpress,Food - Pasta,11.801275349101001
+americanexpress,Food - Produce,94.100912743682
+americanexpress,Food - Salad Toppings,12.046518332628002
+americanexpress,Food - Salads,132.263382090276
+americanexpress,Food - Sauces,39.096297818738
+americanexpress,Food - Snacks,490.537035164333
+americanexpress,Food - Vegetables,42.623926899151
+americanexpress,Gaming,1799.691807790156
+americanexpress,Garden,490.844578690664
+americanexpress,Health,438.31505401988096
+americanexpress,Home,1003.342565986748
+americanexpress,Home Appliances,393.364903091384
+americanexpress,Kitchen,5394.362305356305
+americanexpress,Office,1537.4288783488369
+americanexpress,Outdoor,3207.137489953274
+americanexpress,Pets,571.052047364012
+americanexpress,Storage,49.75898217888
+americanexpress,Tools,547.567990506816
+americanexpress,Toys,76.74825350746198
+americanexpress,Travel,406.982239703325
+bankcard,Accessories,981.6915487221619
+bankcard,Art Supplies,871.2657656680619
+bankcard,Automotive,3206.24819423612
+bankcard,Books,357.990830574106
+bankcard,Clothing - Activewear,201.89423511045698
+bankcard,Clothing - Dresses,446.594591894264
+bankcard,Clothing - Footwear,560.9856226241909
+bankcard,Clothing - Skirts,477.0295835823
+bankcard,Clothing - Tops,2069.599297803405
+bankcard,Electronics,3656.4065250014582
+bankcard,Fitness,2124.735769149714
+bankcard,Food - Baked Goods,200.05604319177903
+bankcard,Food - Bakery,14.387529319703
+bankcard,Food - Baking,227.65129170202502
+bankcard,Food - Beverages,335.343577407418
+bankcard,Food - Breakfast,73.31989252917
+bankcard,Food - Canned Goods,43.046269219427
+bankcard,Food - Cereal,24.669507420646003
+bankcard,Food - Cereals,40.648274897566
+bankcard,Food - Condiments,586.603536943475
+bankcard,Food - Confectionery,10.901551462957
+bankcard,Food - Dairy,27.025085559458002
+bankcard,Food - Dips,17.321130169942
+bankcard,Food - Freezer,53.002845242153
+bankcard,Food - Frozen,22.862821848009
+bankcard,Food - Frozen Food,181.53056881847598
+bankcard,Food - Frozen Foods,63.951042350837994
+bankcard,Food - Frozen Meals,275.668160463547
+bankcard,Food - Frozen Vegetables,21.32344774188
+bankcard,Food - Grains,82.334837214445
+bankcard,Food - Meal Kits,24.880700656229
+bankcard,Food - Meat,170.374917157645
+bankcard,Food - Nuts,103.990773246
+bankcard,Food - Oils,32.813646345513
+bankcard,Food - Pasta,10.611840487149001
+bankcard,Food - Prepared Foods,153.197805323574
+bankcard,Food - Prepared Meals,75.184630317426
+bankcard,Food - Produce,63.187304180845004
+bankcard,Food - Salads,151.928949911936
+bankcard,Food - Sauces,199.49852579797
+bankcard,Food - Seafood,67.784036748059
+bankcard,Food - Snacks,441.139791201858
+bankcard,Food - Spices,21.061854345951
+bankcard,Furniture,4590.284090499192
+bankcard,Garden,1193.890778753821
+bankcard,Health,1965.954306544942
+bankcard,Home,2870.32559868707
+bankcard,Home Appliances,3500.281614946837
+bankcard,Kitchen,509.93636190894097
+bankcard,Office,1958.673518124344
+bankcard,Outdoor,12645.120293290842
+bankcard,Pets,1423.378322005365
+bankcard,Photography,306.482675356229
+bankcard,Smart Home,569.28584824786
+bankcard,Tools,31.212230889188994
+bankcard,Toys,1149.1223963002599
+bankcard,Travel,976.8909113592911
+instapayment,Accessories,498.49941479302794
+instapayment,Art Supplies,637.058995008248
+instapayment,Audio,3947.6817511868626
+instapayment,Automotive,953.016685181251
+instapayment,Beauty,1373.021562926197
+instapayment,Clothing - Bottoms,150.805479155743
+instapayment,Clothing - Footwear,12.443895011879999
+instapayment,Clothing - Tops,747.383359573275
+instapayment,Electronics,7921.031886334587
+instapayment,Fitness,419.623120498504
+instapayment,Food,12.611236173527
+instapayment,Food - Bakery,87.172300188201
+instapayment,Food - Baking,58.558188846030006
+instapayment,Food - Baking & Cooking,23.710876962001002
+instapayment,Food - Baking Goods,23.889172581462002
+instapayment,Food - Beverages,89.930757290862
+instapayment,Food - Breakfast,49.920746574683
+instapayment,Food - Canned Goods,70.183906377222
+instapayment,Food - Condiments,160.009077150561
+instapayment,Food - Dairy,175.36717107323702
+instapayment,Food - Deli,57.173283646726
+instapayment,Food - Desserts,23.64987132712
+instapayment,Food - Dips,53.082390727076
+instapayment,Food - Fresh Produce,4.1539579248030005
+instapayment,Food - Frozen,36.756157853024
+instapayment,Food - Frozen Foods,159.184204384924
+instapayment,Food - Grains,13.728351373873
+instapayment,Food - Meat,55.578833978111
+instapayment,Food - Nuts,4.16546662818
+instapayment,Food - Pasta,44.19904289224301
+instapayment,Food - Prepared Foods,3.316200397563
+instapayment,Food - Prepared Meals,43.834095024075
+instapayment,Food - Produce,63.348494609524
+instapayment,Food - Salads,13.031502438652
+instapayment,Food - Sauces,21.652114400583
+instapayment,Food - Seafood,159.29838004254802
+instapayment,Food - Sides,13.229573643426
+instapayment,Food - Snacks,657.8732423512871
+instapayment,Food - Spices,3.6864423480309996
+instapayment,Food - Vegetables,51.364600370513
+instapayment,Garden,1471.466224468995
+instapayment,Health,612.311684511548
+instapayment,Home,1107.940239330846
+instapayment,Home Appliances,1322.612025828375
+instapayment,Home Improvement,1053.31479577242
+instapayment,Kitchen,1576.99152994664
+instapayment,Music,92.22280543327501
+instapayment,Office,377.138008464606
+instapayment,Outdoor,7277.781755454781
+instapayment,Pets,659.435290165366
+instapayment,Photography,910.2482123640119
+instapayment,Safety,21.195459374262
+instapayment,Smart Home,515.444619018517
+instapayment,Tools,312.039860966813
+instapayment,Toys,1450.3296698510292
+mastercard,Accessories,437.041366858052
+mastercard,Art Supplies,157.817088710397
+mastercard,Audio,29.214985778952997
+mastercard,Automotive,163.916106764754
+mastercard,Clothing,1290.580941798076
+mastercard,Clothing - Bottoms,1997.404139525563
+mastercard,Clothing - Dresses,1451.110420808964
+mastercard,Clothing - Footwear,179.92750788192598
+mastercard,Clothing - Outerwear,282.176368087749
+mastercard,Clothing - Pants,13.216876485922
+mastercard,Clothing - Shirts,1603.679126154772
+mastercard,Clothing - Tops,926.608952676092
+mastercard,Electronics,3708.953024249903
+mastercard,Fitness,822.755195145004
+mastercard,Food - Bakery,68.511645425667
+mastercard,Food - Baking,13.117708151445001
+mastercard,Food - Baking Goods,36.469082508768
+mastercard,Food - Beverages,71.106905980589
+mastercard,Food - Breakfast,85.974526865293
+mastercard,Food - Canned Goods,31.039317785263002
+mastercard,Food - Canned Soups,59.273687616416005
+mastercard,Food - Cereal,35.278520524182
+mastercard,Food - Condiments,361.428846506327
+mastercard,Food - Confectionery,7.33325897439
+mastercard,Food - Dairy,139.956009348006
+mastercard,Food - Deli,56.234218486082
+mastercard,Food - Frozen Food,40.876494684881
+mastercard,Food - Frozen Foods,329.80755138877004
+mastercard,Food - Frozen Fruits,57.908568304719
+mastercard,Food - Grains,142.73515843212
+mastercard,Food - Meal Kits,36.383721671556
+mastercard,Food - Meat,110.244916566429
+mastercard,Food - Pasta,63.819022721427004
+mastercard,Food - Prepared Foods,19.464119039741
+mastercard,Food - Prepared Meals,139.98486323631602
+mastercard,Food - Produce,73.409516891169
+mastercard,Food - Salads,54.02974196528601
+mastercard,Food - Seafood,258.89623127012004
+mastercard,Food - Snacks,595.590188905723
+mastercard,Food - Soups,178.64629964007202
+mastercard,Food - Vegetables,29.58050288026
+mastercard,Footwear,1379.8650098743058
+mastercard,Gaming,758.82255921985
+mastercard,Garden,480.04575738831704
+mastercard,Health,1850.5554336543412
+mastercard,Home,1723.4928308404542
+mastercard,Home Appliances,11933.18847664526
+mastercard,Home Security,4324.698943620531
+mastercard,Kitchen,1554.8629543995742
+mastercard,Music,973.7078167347721
+mastercard,Office,313.562117425878
+mastercard,Outdoor,2521.454716913287
+mastercard,Pets,3424.206890552167
+mastercard,Photography,221.865270061063
+mastercard,Storage,2682.852808896918
+mastercard,Tools,700.940985548306
+mastercard,Toys,779.69535515394
+mastercard,Travel,51.716533597101005
+visa,Accessories,1517.159959269824
+visa,Art Supplies,155.225620298033
+visa,Automotive,413.755821309968
+visa,Beauty,76.95579434749999
+visa,Books,86.08195228464899
+visa,Clothing - Accessories,94.893845108021
+visa,Clothing - Activewear,1089.768634981683
+visa,Clothing - Bottoms,1074.3492910867421
+visa,Clothing - Footwear,763.6993642204079
+visa,Clothing - Pants,446.57415976925705
+visa,Electronics,2596.508815245242
+visa,Fitness,1123.625472290786
+visa,Food - Bakery,67.667436219957
+visa,Food - Baking,86.0321877074
+visa,Food - Baking Goods,132.2344896106
+visa,Food - Beverages,93.094647016039
+visa,Food - Breakfast,96.861428915448
+visa,Food - Canned Goods,71.643193254039
+visa,Food - Condiments,230.89472829452902
+visa,Food - Confectionery,8.645294812992
+visa,Food - Cooking Oil,4.99028171031
+visa,Food - Dairy,85.048530415689
+visa,Food - Deli,7.072752820157
+visa,Food - Desserts,4.74948943669
+visa,Food - Dressings,9.683121572631
+visa,Food - Freezer,34.849498404952996
+visa,Food - Fresh Produce,6.335097362636
+visa,Food - Frozen,46.031160673995
+visa,Food - Frozen Desserts,101.027453570206
+visa,Food - Frozen Foods,472.15925860539403
+visa,Food - Grains,29.153706893286
+visa,Food - Meal Kits,28.815416099280004
+visa,Food - Pasta,142.093451756972
+visa,Food - Prepared Foods,557.512117742733
+visa,Food - Produce,6.272158428499001
+visa,Food - Protein,1.806597585956
+visa,Food - Salads,17.625191209248
+visa,Food - Sauces,30.469361261181003
+visa,Food - Seafood,52.736094651482
+visa,Food - Seasonings,58.455815620783
+visa,Food - Sides,18.556314055279
+visa,Food - Snacks,200.63538302416703
+visa,Food - Soups,54.706011008222006
+visa,Food - Supplements,87.24510727412701
+visa,Food - Vegetables,27.599994375245
+visa,Garden,3447.338038064873
+visa,Health,1345.0516681417748
+visa,Home,6005.582880577926
+visa,Home Appliances,496.8746195109749
+visa,Kitchen,3809.246599453493
+visa,Office,94.674240877896
+visa,Outdoor,3476.453749514746
+visa,Pets,1799.760587613052
+visa,Toys,1900.413754802923
+visa,Travel,277.83227688644195

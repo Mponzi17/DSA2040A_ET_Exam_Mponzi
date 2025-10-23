@@ -1,0 +1,1182 @@
+order_date,customer_id,gender,product,category,quantity,unit_price,payment_method,region,country,latitude,longitude
+2025-09-02,58-9881957,Male,Adjustable Kitchen Broom Stand,Home,2.7241916028,14.99,visa,,Kenya,-0.582624,35.1901151
+2025-09-29,98-9139194,Male,Tahini,Food - Condiments,4.3583397873,5.49,americanexpress,,Kenya,-0.4993281,37.2784835
+2024-02-18,60-5492372,Male,Sustainable Wooden Toys,Toys,0.443593188,29.99,visa,,Kenya,0.636206,34.2782765
+2025-03-10,64-2991826,Male,Blue Denim Jeans,Clothing - Bottoms,2.040664949,49.99,mastercard,,Kenya,0.202957,35.0978385
+2024-07-08,26-4259341,Male,Quinoa Salad,Food - Prepared Foods,38.7518264233,5.99,visa,,Kenya,-3.3973104,38.5559336
+2025-08-12,03-2474003,Female,Sturdy Bookends,Office,5.2484199043,22.99,,,Kenya,-1.3938636,36.7442377
+2024-09-29,87-1130592,Female,Sun-Dried Tomato Pesto,Food - Condiments,12.1952784352,4.49,,,Kenya,,41.8551162
+2024-10-15,31-7438342,Male,Rolling Cooler,Outdoor,29.9357744182,59.99,instapayment,,Kenya,,
+2024-10-23,53-5401758,Male,Zesty Garlic Marinade,Food - Condiments,8.099524105,4.49,visa,,Kenya,-0.3030988,36.080026
+2025-07-10,13-8962756,Male,Camping Chair,Outdoor,4.6357835186,29.99,visa,,Kenya,,34.1114621
+2023-12-07,88-3063304,Female,Garlic Naan Bread,Food - Bakery,3.1856191602,3.99,mastercard,,Kenya,0.393611,34.305278
+2025-09-12,17-8247126,Male,USB-C Hub,,3.9946618496,39.99,americanexpress,,Kenya,-4.1393386,
+2024-04-15,55-6691034,Male,Plant-Based Meal Prep Containers,Kitchen,1.9100058475,18.99,instapayment,,Kenya,,34.6165033
+2025-06-07,88-2133061,Female,Himalayan Pink Salt,Food - Condiments,6.8986707002,1.99,americanexpress,,Kenya,0.2827307,
+2023-11-02,48-9794976,Female,Fried Rice,Food - Frozen Foods,7.3878739563,4.29,visa,,Kenya,-1.1939843,
+2023-12-27,08-4041926,Female,Karaoke Microphone,Music,2.3061466725,39.99,instapayment,,Kenya,,
+2025-07-29,99-2215364,Female,Pet Grooming Kit,Pets,6.7417050969,39.99,instapayment,,Kenya,0.202957,35.0978385
+2024-09-14,34-4362172,Female,Nail Polish Set,,1.9135498884,25.0,visa,,Kenya,1.3081095,
+2025-09-04,20-2868996,Female,Garlic and Herb Rub,Food - Spices,6.4852406266,2.29,,,Kenya,0.490107,35.743418
+2024-03-28,09-1805724,Female,Lemon Herb Grilled Chicken,Food - Meat,7.213407175,9.99,bankcard,,Kenya,,36.7018311
+2024-11-17,42-4940719,Male,Pet Reflective Vest,Pets,17.811014237,18.99,americanexpress,,Kenya,,39.3180297
+2024-03-21,56-6636060,Female,Chicken Fajita Kit,Food - Prepared Foods,0.3688765737,8.99,instapayment,,Kenya,,41.8551162
+2024-11-30,63-2786334,Female,Portable Water Filter,Outdoor,0.6734209905,29.99,instapayment,,Kenya,-1.3750813,37.9952144
+2024-07-04,67-8805211,Female,Coconut Granola,Food - Snacks,7.2645693394,4.19,mastercard,,Kenya,-3.3973104,38.5559336
+2025-02-06,91-6412209,Female,Protein Pancake Mix,Food - Breakfast,3.936406668,3.99,bankcard,,Kenya,,36.9433591
+2024-07-25,74-9880215,Female,Coconut Oil Spray,Food - Cooking Oils,16.2229982021,4.99,americanexpress,,Kenya,,
+2025-08-24,12-6656709,Female,Dog Walking Waist Pack,,8.1631348245,19.99,,,Kenya,0.490107,
+2025-09-03,23-2725401,Female,,Kitchen,25.5436502405,39.99,,,Kenya,-0.7171778,36.4310251
+2024-10-18,87-0576869,Female,Honey Glazed Carrots,Food - Produce,3.0460639369,3.49,bankcard,,Kenya,0.393611,
+2025-06-01,01-7838361,Female,Pet Hair Vacuum Cleaner Attachment,Pets,1.6536596096,14.99,americanexpress,,Kenya,-1.2816645,
+2024-02-19,,Female,Digital Voice Recorder,Electronics,3.473627328,49.99,,,Kenya,0.393611,
+2025-09-05,50-7147743,Male,Ice Cube Tray with Lid,Kitchen,5.2193293623,10.99,mastercard,,Kenya,,
+2024-08-25,52-1819781,Female,Electric Razor,Health,1.7930790277,59.99,bankcard,,Kenya,,37.1097748
+2024-05-25,77-4094356,Male,Carrot and Celery Sticks,Food - Produce,4.2512020018,2.99,mastercard,,Kenya,1.0784436,34.1810057
+2025-07-10,92-8999723,Male,Chicken Salad Kit,,4.2926702997,5.99,americanexpress,,Kenya,,
+2024-01-24,46-8269965,Male,Coconut Curry Lentils,Food - Canned Goods,1.1916261615,5.79,mastercard,,Kenya,,
+2024-04-06,60-6374634,Female,Egg Noodles,Food - Grains,0.2432827016,2.29,bankcard,,Kenya,,34.4212109
+2025-04-14,70-3424550,Female,Measuring Cups Set,Kitchen,18.6695255938,19.99,instapayment,,Kenya,,
+2025-03-23,89-5366157,Male,Raspberry Vanilla Greek Yogurt,Food - Dairy,7.7435775242,3.49,bankcard,,Kenya,,41.8551162
+2025-02-15,38-0247186,Female,Essential Oils Diffuser Necklace,Health,36.1557399973,19.99,,,Kenya,,36.8219462
+2025-06-07,94-8348476,Female,Children's Science Experiment Lab Kit,Toys,9.2857922889,29.99,mastercard,,Kenya,1.0784436,
+2024-09-19,07-9023846,Female,Cauliflower Rice Stir-Fry,,10.5476471779,4.99,instapayment,,Kenya,,
+2023-11-13,69-7405004,Female,Almond Joy Protein Bars,Food - Snacks,11.6552307854,1.99,,,Kenya,,37.5833061
+2024-11-06,31-7738505,Female,Frozen Mixed Vegetables,Food - Frozen,32.2307946091,1.99,americanexpress,,Kenya,0.202957,
+2025-01-19,36-1487852,Female,Garden Tool Set with Carrying Bag,Garden,0.8179570565,39.99,,,Kenya,,
+2024-04-23,73-7660598,Female,Wireless HDMI Receiver,Electronics,10.1144623058,49.99,mastercard,,Kenya,,
+2025-07-08,09-9871853,Male,Reusable Snack Bags,Kitchen,12.6415442089,14.99,bankcard,,Kenya,-1.0387569,
+2025-09-20,24-2676780,Male,Beef Tacos,Food - Meat,9.6281371548,5.49,,,Kenya,,36.3642919
+2023-10-30,18-0363324,Male,Almond Flour Pancake Mix,Food - Baking,1.054851769,5.99,,,Kenya,,36.7018311
+2025-01-11,38-1726172,Male,Canvas Wall Art,Home,1.2931508181,39.99,bankcard,,Kenya,,
+2025-04-07,77-7816274,Female,Mini Hand Gesture Drone,,0.4822647727,29.99,,,Kenya,-0.3688967,
+2025-08-04,46-4883582,Female,Pet Safety Harness,Pets,5.3803654231,24.99,bankcard,,Kenya,1.3081095,
+2024-01-03,22-7866931,Male,Dark Chocolate Covered Raisins,Food - Snacks,45.8676225649,3.99,instapayment,,Kenya,,
+2024-09-01,65-3641573,Male,Vegetable Fried Rice Mix,Food - Frozen Food,10.2927782861,3.99,,,Kenya,3.1155165,35.6040785
+2025-05-07,98-5241434,Male,Vegan Protein Powder,Health,16.2128912309,34.99,,,Kenya,,
+2025-06-27,91-9700008,Female,Herbed Mushroom Risotto,Food - Prepared Foods,1.9930784505,5.49,visa,,Kenya,,
+2024-10-11,77-5619112,Female,Infrared Thermometer Gun,Health,21.8301697374,29.99,,,Kenya,,
+2025-01-17,,Male,Pork Tenderloin,Food - Meat,1.2061395501,10.99,,,Kenya,,
+2025-10-11,91-8246060,Female,Organic Almond Flour,Food - Baking,5.7862138689,6.99,instapayment,,Kenya,-1.3750813,37.9952144
+2023-11-19,14-4972616,Male,Herb-Infused Olive Oil,Food - Oils,10.8330543296,8.99,,,Kenya,0.6812449,
+2025-10-15,83-3115085,Female,Electric Blanket,Home,2.2101439003,59.99,bankcard,,Kenya,0.0351644,
+2025-08-13,85-2018159,Male,Fitness Tracker,Fitness,11.0694189152,49.99,visa,,Kenya,,34.5583766
+2024-03-12,16-4497975,Male,Blackberry Compote,Food - Condiments,5.6873402683,5.29,,,Kenya,,
+2025-10-16,63-4252204,Male,Multi-Purpose Scissors,Office,5.8242296552,8.99,,,Kenya,,
+2024-08-26,64-9395080,Female,Coconut Chips,Food - Snacks,9.2195524018,3.59,visa,,Kenya,-0.677334,34.779603
+2024-06-01,28-4838606,Male,Quinoa,Food - Grains,17.3946794377,4.49,mastercard,,Kenya,-0.272699,
+2025-04-03,18-6404682,Female,Portable Hammock with Stand,Outdoor,12.5723134017,69.99,,,Kenya,-0.1634664,35.5931397
+2024-06-01,68-2914619,Female,Fitbit Activity Tracker,Fitness,9.1240858936,99.99,,,Kenya,-0.272699,36.3775152
+2024-11-21,94-3933678,Female,Video Camera,Electronics,18.9780805646,199.0,instapayment,,Kenya,,39.6682065
+2025-05-03,34-3217647,Female,Ergonomic Mouse Pad with Wrist Support,Office,20.0671200182,14.99,instapayment,,Kenya,-1.0706976,
+2024-01-10,42-4828857,Female,Graphic Sweatshirt,Clothing - Tops,9.2898754667,34.99,instapayment,,Kenya,-0.2488358,
+2024-08-11,00-4876590,Female,Chipotle Black Bean Salad,Food - Salads,8.3997886975,3.29,bankcard,,Kenya,,34.7679568
+2023-11-19,14-9031601,Female,A-Line Skirt,Clothing - Bottoms,9.4354546529,35.99,visa,,Kenya,0.4607691,34.1114621
+2025-01-15,74-3043568,Female,Electrolyte Water Bottle,Fitness,7.1471955539,34.99,instapayment,,Kenya,-2.5265605,
+2025-10-03,25-0940459,Female,Bluetooth Headphones,Audio,49.3521909137,79.99,instapayment,,Kenya,,34.305278
+2023-11-01,55-7374566,Female,Vegan Chocolate Cake Mix,Food - Baking,13.7304400056,4.29,,,Kenya,-4.1393386,39.3180297
+2025-10-05,13-9664629,Female,Honey Garlic Shrimp,Food - Seafood,11.285116665,8.49,mastercard,,Kenya,,
+2025-04-26,85-1046972,Female,Car Emergency Kit,Automotive,12.0930845525,49.99,bankcard,,Kenya,,34.7518631
+2025-08-02,36-0329495,Male,Skincare Fridge,Beauty,8.0801374758,39.99,americanexpress,,Kenya,3.1155165,35.6040785
+2024-12-02,54-0685550,Female,Coconut Cream Pie Mix,Food - Baking,16.3632980244,4.99,,,Kenya,0.3332218,34.4877423
+2024-03-01,52-0285780,Female,Smoked Gouda Cheese,Food - Dairy,13.831480331,5.49,visa,,Kenya,,
+2025-04-26,92-6224015,Male,Cranberry Orange Oatmeal,Food - Breakfast,38.9001722552,2.49,visa,,Kenya,,
+2025-03-24,49-1164248,Male,Cookbook,Books,3.0754538151,27.99,visa,,Kenya,,36.080026
+2025-07-08,05-4084989,Female,Smoked Paprika Chicken Thighs,Food - Meat,3.1971133387,6.99,bankcard,,Kenya,,
+2024-03-01,47-2485267,Female,Digital Wireless Meat Thermometer,Kitchen,18.4579932937,39.99,visa,,Kenya,-1.1939843,34.6165033
+2024-05-15,14-6670480,Male,Portable SSD,Storage,20.6389169082,129.99,mastercard,,Kenya,-0.272699,36.3775152
+2023-10-30,42-8312095,Female,Pumpkin Puree,Food - Canned Goods,11.0111865361,2.99,bankcard,,Kenya,1.0784436,34.1810057
+2024-09-20,29-3636860,Male,Multi-Cooker,Kitchen,2.7068861668,89.99,visa,,Kenya,,36.7018311
+2025-09-02,43-2502238,Male,Bamboo Charcoal Air Purifier Bags,Home,11.164886452,12.99,,,Kenya,,
+2024-11-04,91-0596547,Male,Scented Soy Candles,Home,9.1586485039,19.99,americanexpress,,Kenya,-1.0387569,37.0833753
+2025-03-09,92-3890104,Male,Creamy Garlic Dressing,Food - Condiments,1.6413245629,3.99,instapayment,,Kenya,,37.4596409
+2025-02-17,,Female,Organic Chia Seeds,Food - Health Foods,3.2561159808,7.99,americanexpress,,Kenya,-1.0387569,
+2025-02-04,45-9574892,Female,Sea Salt Caramel Brownie,Food - Bakery,26.7391533207,2.49,,,Kenya,,37.2784835
+2025-02-01,74-7366579,Male,,Food - Condiments,1.2149212591,4.29,,,Kenya,-0.272699,
+2025-05-01,24-7392537,Male,Creative Puzzle Game,Toys,5.7873725801,19.99,,,Kenya,-1.0387569,
+2023-12-09,50-3411155,Female,Wireless Charging Pad,Accessories,7.0504092019,19.99,visa,,Kenya,-2.0980751,
+2024-04-08,57-7485261,Female,Walnut Halves,Food - Nuts,9.5011670508,8.49,bankcard,,Kenya,,
+2024-10-15,74-9577842,Male,Classic Bagels,,16.0467402708,2.99,americanexpress,,Kenya,3.1155165,
+2025-02-09,36-8387867,Male,Colorful Post-It Notes Set,Office,2.8963885724,9.99,americanexpress,,Kenya,,
+2024-04-14,68-1069188,Male,Winter Knit Beanie,Clothing,8.35038854,14.99,americanexpress,,Kenya,,35.286286
+2024-02-02,34-4741690,Male,Classic Vanilla Fudge,Food - Desserts,3.2162228239,4.49,americanexpress,,Kenya,-1.5176837,
+2024-10-29,25-3267315,Male,Folding Pocket Knife,Tools,1.2489888311,24.99,bankcard,,Kenya,,
+2024-08-18,43-9637071,Male,Savory Rice Cakes,,6.0638797868,2.5,mastercard,,Kenya,-1.0387569,37.0833753
+2024-11-20,59-6215642,Male,Self-Adhesive Wallpaper,Home,11.244181078,34.99,instapayment,,Kenya,-0.7171778,
+2024-09-18,,Male,Slim Fit Chinos,Clothing - Pants,2.1937028601,54.99,americanexpress,,Kenya,,
+2025-02-03,91-4875109,Male,Portable Jump Starter,Automotive,41.3525499001,59.99,bankcard,,Kenya,,
+2025-10-13,41-4032667,Female,Portable Air Conditioner,Home Appliances,4.6235235525,299.99,,,Kenya,,
+2025-07-17,44-1676963,Female,Underwater Camera,Photography,4.3897290703,199.99,instapayment,,Kenya,0.3332218,
+2023-12-29,55-9008695,Male,LED Flashlight,Outdoor,10.9782267042,19.99,mastercard,,Kenya,0.6812449,
+2023-12-05,63-2381843,Female,Classic Slim Fit Shirt,Clothing - Shirts,32.0799985228,49.99,mastercard,,Kenya,,
+2025-07-03,23-8728268,Male,Portable Jump Starter,Automotive,1.533323014,59.99,bankcard,,Kenya,0.490107,35.743418
+2024-07-21,76-1762609,Female,Cucumber Relish,Food - Condiments,17.5478406881,3.39,visa,,Kenya,,
+2024-05-06,62-5410277,Male,Chia Seed Pudding Mix,,9.5587968572,4.19,instapayment,,Kenya,0.2827307,34.7518631
+2023-11-13,01-4705163,Female,Portable Charger with Solar Panel,Electronics,7.6655380351,45.99,mastercard,,Kenya,-0.5350427,34.4530968
+2024-07-07,09-8922810,Female,Tomato Basil Pasta Sauce,Food - Sauces,4.0637289755,3.99,,,Kenya,,36.8304102
+2024-12-19,20-4362191,Female,Electric Stool Heater,Home,2.8994193223,29.99,bankcard,,Kenya,,
+2024-04-15,71-0009934,Female,Carrot and Celery Sticks,Food - Produce,7.5202421649,2.99,bankcard,,Kenya,1.0784436,
+2024-11-06,91-4892739,Male,Pet Travel Backpack Carrier,Pets,19.3893220137,49.99,bankcard,,Kenya,,35.2066038
+2024-10-13,85-1327219,Female,Floral Summer Dress,,2.5029425754,39.99,mastercard,,Kenya,,34.1114621
+2024-04-19,18-5827544,Female,Vegetable Fried Rice,Food - Frozen Foods,30.9744961574,4.99,visa,,Kenya,0.2827307,34.7518631
+2025-10-22,38-4261934,Male,Decorative LED Neon Sign,Home,6.6306464272,45.99,instapayment,,Kenya,,
+2024-12-01,60-8980773,Male,Black Bean & Corn Salad,Food - Salads,4.4173411552,3.99,visa,,Kenya,0.0514721,
+2025-01-04,88-7304625,Female,Essential Oil Roller Bottles,Health,6.5730505803,19.99,,,Kenya,-2.0980751,36.7819505
+2024-10-10,73-1895263,Male,Greek Feta Cheese,Food - Dairy,1.6267775011,4.99,instapayment,,Kenya,-0.1566093,
+2024-05-14,54-6728450,Female,Pet Grooming Gloves,Pets,15.0070620692,9.99,,,Kenya,0.6812449,34.4212109
+2025-09-30,46-6634737,Female,Zucchini,Food - Produce,7.4738476891,0.79,visa,,Kenya,,34.779603
+2024-11-01,26-6276754,Female,Sushi Rice,Food - Grains,2.2712924779,3.99,,,Kenya,1.2481932,35.1103736
+2024-01-07,40-2743959,Female,Nut Mix,Food - Snacks,0.6963189526,5.99,americanexpress,,Kenya,,
+2025-05-16,00-8322601,Female,Plant Pot Drip Trays,Garden,12.3064330318,9.99,,,Kenya,0.5142775,
+2024-11-07,79-8975396,Female,Spinach Pizza Rolls,Food - Frozen Foods,2.446841634,4.99,visa,,Kenya,-4.0434771,39.6682065
+2025-09-01,16-5344806,Male,Thyme,Food - Fresh Produce,15.9689512671,2.49,,,Kenya,,
+2023-10-29,59-5200106,Female,Lightweight Backpacking Tent,Outdoor,8.8492065915,129.99,,,Kenya,,
+2025-03-12,66-4209407,Male,Weighted Jump Rope with Counter,Fitness,9.7168187857,14.99,mastercard,,Kenya,,
+2024-03-21,25-4434912,Female,Vintage Button-Down Shirt,,14.7992601701,45.99,mastercard,,Kenya,,41.8551162
+2025-04-05,68-6380865,Female,Garlic Parmesan Roasted Potatoes,Food - Sides,3.1055291695,3.99,,,Kenya,,
+2024-06-14,08-5606410,Male,Acoustic Guitar,Music,4.8687825228,199.99,mastercard,,Kenya,,
+2023-12-03,05-3246265,Male,Car Windshield Sun Shade,,44.5274479061,19.99,americanexpress,,Kenya,,
+2024-08-04,67-0366648,Female,Fleece Throw Blanket,Home,13.6254099864,29.99,americanexpress,,Kenya,,39.9093269
+2025-07-26,84-0048958,Male,Organic Blueberries,Food - Fruits,4.1970318974,5.49,americanexpress,,Kenya,-2.5265605,
+2023-11-16,,Female,Pet Waterer with Filtration,Pets,7.7388628693,39.99,americanexpress,,Kenya,0.393611,
+2025-06-10,18-9946071,Male,Lightweight Backpacking Tent,Outdoor,10.513754577,129.99,mastercard,,Kenya,-3.2191864,
+2024-02-22,31-3458960,Male,Strawberry Rhubarb Jam,Food - Condiments,16.0111352746,4.29,,,Kenya,-0.3688967,35.286286
+2024-07-28,39-7845969,Male,Gardening Tool Belt,Garden,5.5624810735,22.99,instapayment,,Kenya,,35.5931397
+2024-04-22,,Female,Hibiscus Tea Bags,Food - Beverages,23.3263290764,3.79,instapayment,,Kenya,-3.2191864,40.1168906
+2024-03-25,27-9080766,Female,Vegetarian Stir Fry Sauce,Food - Condiments,1.4738109896,2.49,,,Kenya,-1.7775816,
+2024-01-08,09-4076643,Female,Honey Lemon Tea,Food - Beverages,3.7301778264,3.29,americanexpress,,Kenya,,
+2025-08-19,61-8634849,Female,Chocolate Hazelnut Granola,Food - Cereal,5.4943223654,4.49,bankcard,,Kenya,-2.0980751,
+2025-01-13,06-0642254,Male,Slim Fit Chinos,Clothing - Pants,4.5236959357,54.99,,,Kenya,,39.9093269
+2025-06-03,34-5926600,Female,Gaming Mousepad,Gaming,37.960108015,19.99,mastercard,,Kenya,,37.4596409
+2023-11-16,11-4148946,Female,Apple Cinnamon Breakfast Muffins,Food - Bakery,7.7208927623,3.49,americanexpress,,Kenya,-0.7771138,34.9458389
+2025-06-11,29-7340246,Male,Cocktail Shaker Set,Kitchen,2.3127043979,29.99,americanexpress,,Kenya,-0.3688967,35.286286
+2025-01-20,14-8270634,Female,Fleece Lined Leggings,,4.867591332,29.99,bankcard,,Kenya,,
+2024-11-04,71-9315695,Male,Organic Spinach,Food - Produce,22.9451472622,2.99,americanexpress,,Kenya,,34.2747004
+2025-08-30,48-9747252,Male,Home Karaoke System,Audio,0.2826922585,129.99,,,Kenya,-1.1748105,36.8304102
+2024-09-08,69-7075386,Female,Adjustable Laptop Desk,Office,3.2435546039,59.99,americanexpress,,Kenya,0.4607691,34.1114621
+2024-12-09,87-9137772,Male,Beef Stroganoff Meal Kit,Food - Frozen Meals,15.2580355097,12.99,bankcard,,Kenya,,36.7018311
+2024-05-18,87-5596833,Male,Solar Garden Lights,Outdoor,2.9096034379,39.99,mastercard,,Kenya,-0.5388381,37.4596409
+2025-07-31,93-9130462,Female,Microfiber Cleaning Cloths,,7.1452932797,9.99,visa,,Kenya,,34.2747004
+2025-10-17,,Female,Watercolor Brush Pens,Art Supplies,2.4670347097,19.99,mastercard,,Kenya,-0.4277809,
+2025-01-30,53-3952978,Male,Spicy Hummus,Food - Deli,2.0265767393,3.49,visa,,Kenya,,
+2024-06-24,15-9415433,Male,Window A/C Unit,Home Appliances,11.6679943163,299.99,bankcard,,Kenya,,
+2024-05-27,23-4583502,Female,Fleece Hoodie,Clothing - Outerwear,1.3926267417,39.99,americanexpress,,Kenya,-0.0998238,
+2025-04-30,83-9357536,Female,Pineapple Teriyaki Chicken Mix,Food - Meat,8.4422387238,6.99,,,Kenya,0.3332218,
+2024-02-14,65-6190805,Male,Fruit Medley Juice,Food - Beverages,8.5284441696,3.49,bankcard,,Kenya,,
+2025-06-04,89-5971316,Female,Garlic Butter Sauce,Food - Condiments,4.7566186342,3.59,instapayment,,Kenya,-1.0706976,
+2023-11-11,98-4749428,Male,Pet Training Pads,Pets,12.0376136037,24.99,bankcard,,Kenya,-0.677334,
+2023-12-01,44-6206054,Male,Raspberry Tart,Food - Baked Goods,36.4400807271,5.49,bankcard,,Kenya,,
+2024-01-28,85-1050395,Female,Rechargeable Electric Toothbrush,Health,10.9087071244,49.99,bankcard,,Kenya,,37.0833753
+2023-12-22,38-5053415,Male,Blue Denim Jeans,Clothing - Bottoms,3.0167129257,49.99,instapayment,,Kenya,,36.9785033
+2024-09-18,66-0178758,Male,Sea Salt Caramel Popcorn,Food - Snacks,4.9031833386,3.99,mastercard,,Kenya,1.3081095,35.2066038
+2023-10-25,19-4857955,Male,Chili Lime Corn Chips,Food - Snacks,14.7175766233,2.79,americanexpress,,Kenya,-4.0434771,
+2024-01-28,94-7523173,Female,Garlic Parmesan Roasted Potatoes,Food - Sides,3.3156826174,3.99,instapayment,,Kenya,-0.7171778,36.4310251
+2023-12-01,81-3622982,Male,Portable Pet Water Bottle,Pets,0.991617623,18.99,bankcard,,Kenya,-3.5106508,39.9093269
+2025-09-05,51-4707851,Male,Bamboo Cutting Board,Kitchen,25.9917231155,22.0,,,Kenya,-0.4532293,
+2024-10-09,34-2660595,Male,Dog Car Seat Cover,Pets,14.5169357121,39.99,mastercard,,Kenya,0.490107,
+2024-02-25,21-1998037,Female,Frozen Hash Browns,Food - Frozen Foods,0.5389659597,2.99,visa,,Kenya,,34.1810057
+2025-07-15,44-9450169,Female,,Food - Dairy,8.8835516613,3.49,visa,,Kenya,-0.582624,
+2024-01-30,94-9558887,Male,Peach Slices in Syrup,Food - Canned Goods,5.1845542894,2.59,visa,,Kenya,,39.0528407
+2024-08-25,56-5534592,Female,Folding Exercise Bike,Fitness,2.30912641,199.99,americanexpress,,Kenya,,37.9952144
+2024-03-05,22-0170186,Male,Wireless Charger,Accessories,3.7317295913,24.99,mastercard,,Kenya,,34.7518631
+2024-10-16,13-4470510,Male,Sweet Potato Mash,Food - Frozen Foods,41.8461084958,3.99,,,Kenya,,
+2025-02-12,45-2166876,Male,Golf Polo Shirt,Clothing - Tops,2.341257406,39.99,bankcard,,Kenya,,
+2024-03-02,00-3881381,Female,Cushion Covers,Home,5.574010112,35.0,bankcard,,Kenya,,39.9093269
+2025-03-18,34-7975487,Male,Roasted Red Pepper Hummus,Food - Dips,9.0987149943,3.49,instapayment,,Kenya,,35.0978385
+2024-04-21,,Male,Noise-Canceling Headphones,Audio,23.7382484551,119.99,bankcard,,Kenya,-0.272699,
+2024-06-15,87-5959114,Male,Buffalo Cauliflower Wings,Food - Frozen Foods,4.3232385871,6.99,mastercard,,Kenya,,36.9433591
+2024-11-18,,Male,Beard Grooming Kit,Grooming,4.3065774228,34.99,,,Kenya,-4.1393386,39.3180297
+2024-10-31,65-2099938,Male,Electric Heating Pad,Health,5.972435501,20.99,americanexpress,,Kenya,,
+2024-03-16,48-3838282,Female,Blue Corn Tortilla Chips,Food - Snacks,16.3039656952,3.49,,,Kenya,0.636206,34.2782765
+2024-07-08,18-3824616,Male,Portable Solar Camp Shower,Outdoor,5.8569304908,29.99,americanexpress,,Kenya,,35.6040785
+2024-10-31,,Female,Gluten-Free Bread,Food - Bakery,32.0639565504,5.49,mastercard,,Kenya,-0.4532293,
+2024-12-23,72-9383312,Male,Beef Chili,Food - Canned Goods,21.4163969014,4.5,americanexpress,,Kenya,-0.5350427,
+2024-07-07,01-1938713,Male,Active Racerback Tank,Clothing - Tops,1.6389697425,24.99,americanexpress,,Kenya,,
+2024-03-18,74-1729554,Male,Lasagna Noodles,Food - Pasta,41.3336295165,1.89,visa,,Kenya,,
+2025-04-18,07-9350845,Male,Honey Lemon Tea,,13.1170742125,3.29,instapayment,,Kenya,,35.2697802
+2024-02-22,45-4409004,Female,Compact Umbrella,Accessories,24.9637540392,12.99,visa,,Kenya,-1.3938636,
+2023-11-16,70-7425131,Male,Elderberry Syrup,Food - Supplements,7.2764893473,11.99,visa,,Kenya,-2.0980751,36.7819505
+2023-12-08,83-8553377,Female,Coconut Curry Lentils,Food - Canned Goods,1.5190606006,5.79,,,Kenya,-2.2695575,40.9006408
+2025-03-03,43-4898376,Male,Corn Tortillas,Food - Bakery,21.1136404004,2.49,instapayment,,Kenya,,
+2024-04-01,69-6374267,Male,Beef Tacos,Food - Meat,1.1670200367,5.49,bankcard,,Kenya,,
+2024-08-19,67-7200561,Male,Chia Seeds,Food - Grains,4.0148731632,6.99,,,Kenya,-3.3973104,
+2024-10-16,03-2865775,Male,Portable Air Pump,Outdoor,32.2862394512,19.99,instapayment,,Kenya,0.5142775,35.2697802
+2024-07-07,75-6306125,Female,Lentil Vegetable Stew,Food - Canned Soups,4.9901059123,4.49,mastercard,,Kenya,-0.272699,36.3775152
+2024-05-12,13-7907027,Male,Insulated Lunch Bag,Kitchen,15.4305960524,24.99,,,Kenya,,
+2024-05-04,88-6412319,Female,Herb Garden Planter Box,Garden,60.7967807279,49.99,visa,,Kenya,,36.3775152
+2025-01-24,27-8933514,Male,Nut Butter Cups,Food - Snacks,10.3936935273,3.99,visa,,Kenya,0.2827307,
+2025-10-08,27-4961289,Male,Pineapple Coconut Bars,Food - Snacks,1.6153858131,3.79,,,Kenya,,
+2023-11-07,32-2948166,Male,Organic Apples,Food - Produce,10.289232263,1.89,,,Kenya,,
+2025-02-09,71-0953412,Male,Luxury Bath Robe,Clothing,25.8167821924,49.99,mastercard,,Kenya,-3.5106508,
+2024-12-29,50-2912511,Female,High-Quality Yoga Block,Fitness,20.7740075242,12.99,mastercard,,Kenya,3.5399846,
+2025-03-08,67-6015105,Female,Honey Sesame Cashews,Food - Snacks,5.5741715969,4.49,instapayment,,Kenya,,
+2025-07-14,62-6854122,Female,Rustic Wooden Picture Frame,Home,8.4498206591,19.99,visa,,Kenya,,36.9433591
+2024-06-27,56-3284099,Male,Digital Bullet Journal,Apps,4.1657238862,24.99,,,Kenya,,
+2025-02-22,78-7132581,Male,Glass Water Bottle,,20.827386137,25.99,,,Kenya,,34.7679568
+2024-07-12,16-3928591,Female,Feta Cheese Crumbles,Food - Dairy,36.682514077,2.49,instapayment,,Kenya,0.053037,35.729768
+2025-06-17,36-5686577,Male,Portable Air Compressor,Automotive,4.7031918034,44.99,americanexpress,,Kenya,-0.1566093,35.1983598
+2025-03-25,51-5872631,Female,Kale Salad with Lemon Dressing,Food - Salads,0.9980782153,4.99,,,Kenya,,34.5583766
+2024-06-20,84-4822456,Female,Spicy Salsa Verde,Food - Condiments,46.2836779024,3.49,bankcard,,Kenya,,34.1114621
+2024-07-11,42-2816570,Female,Electric Can Opener,Kitchen,7.436328727,29.99,,,Kenya,0.0074415,
+2024-05-31,76-3352876,Male,,Food - Household,15.2044644108,12.99,mastercard,,Kenya,-3.3973104,38.5559336
+2025-05-30,74-0560077,Female,Garden Hoses with Expandable Features,Garden,7.8856963107,34.99,,,Kenya,,36.8219462
+2024-02-03,25-4171873,Female,Graphic Print Leggings,Clothing - Activewear,6.7320518543,29.99,bankcard,,Kenya,-0.677334,34.779603
+2024-04-26,86-0434586,Female,Linen Trousers,Clothing - Bottoms,17.8017477641,44.99,mastercard,,Kenya,,34.1114621
+2024-05-09,20-8368998,Male,Coconut Chia Pudding,Food - Dairy,6.0388433979,3.49,mastercard,,Kenya,0.5142775,35.2697802
+2023-11-11,79-4062553,Female,Roasted Red Pepper Dip,Food - Snacks,19.952943945,3.29,,,Kenya,-0.0917016,
+2024-08-14,63-2956737,Female,Pepper Jack Cheese Sticks,Food - Snacks,2.5274987295,2.49,instapayment,,Kenya,,34.1114621
+2024-01-20,27-2581124,Male,Coconut Oil,Food - Oils & Vinegars,3.6741342131,6.49,,,Kenya,0.490107,
+2025-05-26,73-7911720,Male,Classic White T-Shirt,Clothing - Tops,10.4027554801,19.99,mastercard,,Kenya,1.7488388,40.058633
+2025-06-22,25-8432454,Female,Kids' Craft Supplies Set,Toys,1.2460791261,24.99,americanexpress,,Kenya,,
+2023-12-01,35-3739684,Male,Tuna Fish (canned),Food - Canned Goods,7.0318411813,2.29,americanexpress,,Kenya,2.3354966,37.9943453
+2025-06-06,22-0370812,Female,Digital Wireless Meat Thermometer,Kitchen,9.5511024917,39.99,americanexpress,,Kenya,1.3081095,35.2066038
+2024-03-09,91-8913023,Female,Reflective Safety Vest,Safety,9.388131814,19.99,,,Kenya,,
+2024-08-07,63-7632482,Male,Kombucha Drink,Food - Beverages,0.8863998149,3.49,americanexpress,,Kenya,,
+2025-06-28,75-6640317,Male,Fire Roasted Salsa,Food - Condiments,5.5547200346,2.49,,,Kenya,-1.0387569,
+2024-10-18,98-3134782,Male,Smoked Gouda Cheese,Food - Dairy,15.1982727279,5.49,mastercard,,Kenya,,35.6040785
+2024-03-21,86-0200440,Male,Dark Chocolate Tart,Food - Desserts,0.755085761,6.29,visa,,Kenya,-0.4993281,37.2784835
+2025-10-10,83-6801185,Male,Vegetable Stir Fry Mix,Food - Fresh Produce,1.9255615084,3.29,visa,,Kenya,,35.286286
+2024-05-10,22-0118546,Male,Outdoor Picnic Blanket,Outdoor,2.4196147694,34.99,,,Kenya,,35.2697802
+2024-08-17,23-3607044,Male,Memory Foam Mattress Topper,Home,16.356810385,109.99,visa,,Kenya,,40.529246
+2024-06-02,72-2604093,Female,Caramelized Onion Dip,Food - Dairy,2.1669044252,3.99,,,Kenya,,
+2024-04-27,72-1442435,Male,Ginger Turmeric Latte Mix,Food - Beverages,17.3823558781,5.29,visa,,Kenya,,39.3180297
+2024-02-01,55-3634333,Male,Thai Red Curry Paste,Food - Condiments,2.9202608851,3.99,,,Kenya,0.636206,34.2782765
+2024-05-05,28-9543656,Female,Almond Flour Pizza Crust,Food - Frozen Foods,0.8455379958,7.99,visa,,Kenya,-4.1393386,39.3180297
+2024-08-19,31-1317256,Female,Key Finder,Accessories,11.1429650638,19.99,americanexpress,,Kenya,,
+2025-05-21,21-4134252,Female,,,8.107473718,4.29,,,Kenya,,36.080026
+2024-07-28,57-6393820,Male,Outdoor Camping Hammock,Outdoor,2.3636163594,29.99,instapayment,,Kenya,-0.272699,36.3775152
+2023-12-21,85-5263953,Female,Reusable Coffee Filter,Kitchen,3.0628315366,10.99,,,Kenya,0.4607691,
+2024-08-15,34-9118835,Male,Spicy Snack Mix,Food - Snacks,5.736792911,4.99,instapayment,,Kenya,,
+2024-04-14,78-5678903,Male,Portable Massage Table,Health,0.196318102,199.99,americanexpress,,Kenya,,
+2024-09-30,39-9902477,Male,LED Desk Light,Home,4.7529986928,34.99,instapayment,,Kenya,0.0351644,
+2025-05-25,28-1652188,Male,Oven Mitts with Pocket,Kitchen,5.7755092849,19.99,,,Kenya,-0.5350427,
+2025-03-29,20-5006508,Male,Microwave Popcorn Maker,Kitchen,26.6108434909,19.99,,,Kenya,,
+2025-09-16,89-0037326,Female,Travel Mug with Leak-Proof Lid,,6.0199574185,24.99,mastercard,,Kenya,0.636206,34.2782765
+2024-09-18,85-9455638,Female,Frozen Chicken Nuggets,Food - Frozen Foods,14.6645571714,4.49,instapayment,,Kenya,,
+2023-12-28,39-0293037,Male,Homestyle Beef Stew,Food - Canned Soups,4.6142818611,7.99,mastercard,,Kenya,-1.7775816,37.1097748
+2023-12-04,00-2405913,Male,Spicy Tuna Salad,Food - Seafood,12.0332435506,4.49,,,Kenya,-0.2488358,
+2025-06-14,81-3683455,Male,Self-Watering Planter,Garden,1.3947716922,24.99,mastercard,,Kenya,,37.6456042
+2024-04-24,82-5269597,Male,Adjustable Kneeling Pad,Garden,5.7310414365,18.99,americanexpress,,Kenya,-0.1566093,35.1983598
+2024-08-03,94-0749716,Female,Men's Waterproof Hiking Boots,Footwear,15.3335371694,89.99,mastercard,,Kenya,-1.0706976,34.4752715
+2025-01-31,67-6901918,Male,Sweet Potatoes,Food - Produce,0.413279499,0.89,visa,,Kenya,,
+2023-11-14,94-4849506,Male,Electric Griddle,,9.1930070952,54.99,,,Kenya,-1.1748105,36.8304102
+2025-07-26,92-0368429,Male,Collapsible Pet Dog Bowl,Pets,5.7302797814,9.99,visa,,Kenya,,34.2747004
+2024-08-13,75-0212810,Male,Paprika,Food - Spices,2.0594649989,1.79,instapayment,,Kenya,,
+2024-01-20,63-6406407,Male,Tailored Blazer,Clothing - Outerwear,18.6852355861,99.99,,,Kenya,,
+2024-08-25,69-1155317,Female,Garam Masala Spice Blend,Food - Spices,7.5490517369,2.79,bankcard,,Kenya,,
+2024-09-25,26-9025032,Male,Microfiber Cleaning Cloth Set,,11.5525916075,9.99,instapayment,,Kenya,-0.4277809,
+2023-12-19,69-0645378,Female,Ergonomic Gaming Chair,Gaming,8.9989089844,199.99,americanexpress,,Kenya,,
+2023-10-25,32-1497713,Male,Energy Bites,Food - Snacks,11.176201827,3.99,,,Kenya,0.5142775,35.2697802
+2024-01-03,,Female,Chocolate Peanut Butter Cups,Food - Snacks,13.4390422437,2.29,mastercard,,Kenya,-0.3688967,35.286286
+2025-05-31,73-6042883,Male,Backpacking Tent,Outdoor,5.0526944298,109.99,americanexpress,,Kenya,3.9356389,41.8551162
+2024-03-02,07-9994005,Female,Pecan Pie Filling,Food - Baking Goods,24.5068997753,3.99,,,Kenya,,
+2025-06-18,28-6197465,Female,Couscous,Food - Grains,27.258313479,2.49,americanexpress,,Kenya,0.0351644,
+2023-12-03,36-0398031,Male,Elegant Maxi Skirt,Clothing - Bottoms,10.8055711725,44.99,visa,,Kenya,-0.0917016,34.7679568
+2024-02-12,95-6452855,Male,Organic Fruit Salad,Food - Produce,2.4952241419,4.49,mastercard,,Kenya,-0.1566093,
+2023-11-28,42-7563599,Male,Pecan Pie Filling,Food - Baking Goods,27.1228242818,3.99,visa,,Kenya,,37.9952144
+2025-01-26,27-6328632,Female,Chili Garlic Sauce,Food - Condiments,0.2365533926,2.49,visa,,Kenya,-0.2488358,
+2025-03-28,62-1574324,Female,Bicycle Repair Kit,Outdoor,1.7396532811,14.99,,,Kenya,,36.8304102
+2025-04-23,41-1340401,Male,Kids' Crafting Station,Toys,17.3291185466,49.99,instapayment,,Kenya,-4.1393386,39.3180297
+2023-11-02,16-8485339,Male,Smart Wi-Fi Camera,Smart Home,6.326101214,89.99,bankcard,,Kenya,,
+2023-11-01,14-9469001,Male,Herb Seasoned Croutons,Food - Salad Toppings,4.0289358972,2.99,americanexpress,,Kenya,0.0514721,37.6456042
+2025-05-24,16-6198590,Female,Crew Neck Sweater,Clothing - Sweaters,17.5822834721,39.99,,,Kenya,0.3332218,34.4877423
+2024-09-18,14-9065173,Female,Aeropress Coffee Maker,Kitchen,12.5664423544,29.99,instapayment,,Kenya,1.2481932,35.1103736
+2025-01-14,65-9781987,Male,Chocolate Peanut Butter Cups,Food - Snacks,5.5122391995,2.29,instapayment,,Kenya,,35.8770642
+2024-10-22,28-8328681,Female,Vegetarian Pizza,Food - Frozen Foods,28.4286292966,5.49,mastercard,,Kenya,,34.305278
+2024-06-20,18-2750144,Male,Cold Brew Coffee Maker,Kitchen,11.3469776307,34.99,,,Kenya,-0.0917016,34.7679568
+2025-04-22,51-8518029,Female,Outdoor Picnic Blanket,Outdoor,8.6471341229,34.99,mastercard,,Kenya,,
+2024-01-07,20-1499962,Female,Cherry Almond Protein Bar,Food - Snacks,21.1939736978,1.99,mastercard,,Kenya,0.202957,35.0978385
+2024-06-16,23-7521344,Male,Electric Griddle with Lid,Kitchen,0.4827869111,49.99,visa,,Kenya,,
+2025-06-28,84-8669484,Female,Pressure Washer Accessories Kit,Home Improvement,26.339454758,39.99,instapayment,,Kenya,,40.058633
+2024-01-06,72-2025516,Male,Balsamic Fig Dressing,Food - Condiments,7.3635498687,3.79,bankcard,,Kenya,,
+2024-05-14,32-3520445,Male,Garden Hoses with Expandable Features,Garden,0.2954777193,34.99,,,Kenya,,34.779603
+2024-02-16,72-8038866,Female,Italian Pasta,Food - Grains,5.717233448,2.29,bankcard,,Kenya,,35.2066038
+2025-10-14,,Male,Denim Jacket,Clothing - Outerwear,0.3288757887,69.99,bankcard,,Kenya,,
+2024-07-18,96-2184867,Female,Computer Monitor Stand,Office,2.6909977612,29.99,americanexpress,,Kenya,-0.1566093,35.1983598
+2025-07-30,87-5072297,Male,Non-Stick Grill Pan,Kitchen,3.61524897,39.99,visa,,Kenya,,
+2025-10-18,03-2822565,Male,Buffalo Chicken Dip,Food - Dips,2.8916744858,5.99,bankcard,,Kenya,,39.3180297
+2024-09-08,69-7866829,Female,Cranberry Orange Oatmeal,Food - Breakfast,21.4928983836,2.49,mastercard,,Kenya,-1.0387569,37.0833753
+2024-05-02,49-7904354,Male,Portable Air Conditioner,Home Appliances,24.2094341786,299.99,mastercard,,Kenya,,34.7518631
+2023-12-08,71-6880036,Male,Toy Building Set,Toys,1.367794329,29.99,instapayment,,Kenya,-0.5350427,
+2024-02-22,06-9304468,Male,Outdoor Adventure Kit,Outdoor,6.1380416848,89.99,bankcard,,Kenya,0.393611,34.305278
+2025-05-20,63-1224578,Male,Portable Bluetooth Speaker,Audio,18.8998055073,49.99,,,Kenya,1.3081095,35.2066038
+2025-01-03,30-2351670,Female,Pineapple Rings,Food - Canned Goods,4.0653901512,2.49,bankcard,,Kenya,-1.5176837,
+2025-10-17,79-8596270,Female,Peanut Butter Banana Smoothie,Food - Beverages,4.754007505,3.99,instapayment,,Kenya,,
+2025-02-28,36-6825695,Male,Compact Hair Dryer,Beauty,0.4490251047,29.99,instapayment,,Kenya,1.3081095,35.2066038
+2025-01-03,78-3893634,Female,Pumpkin Spice Latte Mix,Food - Beverages,5.1703860068,3.29,instapayment,,Kenya,-0.0917016,
+2024-02-07,69-2844926,Male,Outdoor Portable Fire Pit,Outdoor,4.4742354397,149.99,instapayment,,Kenya,-0.677334,
+2023-11-21,92-0674829,Male,Pet Hair Vacuum Attachment,Pets,4.1846473611,14.99,,,Kenya,-0.4993281,37.2784835
+2024-02-13,84-4243193,Female,Cinnamon Sugar Mix,Food - Baking,25.3763992078,1.49,visa,,Kenya,-0.0998238,34.2747004
+2024-08-10,06-6013225,Male,Mini Electric Kettle,Kitchen,1.4752872596,29.99,,,Kenya,1.3081095,
+2024-10-18,,Male,Cranberry Citrus Sauce,Food - Condiments,18.5953089721,3.99,instapayment,,Kenya,,
+2023-10-28,13-1326013,Male,Fitness Resistance Bands Set,Fitness,5.8463977071,34.99,,,Kenya,-0.7171778,
+2025-05-08,,Female,Organic Tomato Ketchup,Food - Condiments,4.2549932627,3.49,instapayment,,Kenya,,
+2024-02-06,33-4906551,Male,Mango Salsa,Food - Condiments,3.3130151396,3.49,bankcard,,Kenya,,39.9093269
+2025-09-21,16-8277029,Male,Garlic Herb Cream Cheese,Food - Dairy,4.3800079556,2.99,,,Kenya,,
+2025-07-28,93-6805074,Female,Crew Neck Sweater,Clothing - Sweaters,5.0939869286,39.99,,,Kenya,,37.9943453
+2024-05-14,48-6792177,Male,Smartphone Photography Tripod,Electronics,8.3554942249,29.99,,,Kenya,,35.6040785
+2025-06-11,07-7590202,Female,Chocolate Coconut Protein Balls,Food - Snacks,4.3435739431,2.99,bankcard,,Kenya,,
+2024-07-13,62-1151029,Female,Orange Ginger Vinaigrette,Food - Condiments,20.2255104,3.99,visa,,Kenya,0.5695252,34.5583766
+2024-11-25,23-4984764,Male,Lemon Dill Chicken Skewers,Food - Meat,16.5446872041,9.99,americanexpress,,Kenya,-1.2816645,36.8458837
+2025-01-27,15-3445430,Female,Magnetic Puzzle Board,Toys,1.1698089899,24.99,,,Kenya,3.9356389,41.8551162
+2023-12-29,41-0659972,Male,Strawberry Fruit Spread,Food - Jams & Jellies,14.4915775177,3.59,americanexpress,,Kenya,,34.779603
+2024-09-10,61-8221237,Male,Vegetable Samosas,,6.1195959077,4.99,visa,,Kenya,-0.2488358,35.7323709
+2024-03-18,27-9729313,Female,Pet Reflective Vest,Pets,14.715572184,18.99,visa,,Kenya,,34.5583766
+2023-11-16,,Female,Frozen Vegetarian Pizza,Food - Frozen Meals,2.3219855785,6.49,bankcard,,Kenya,,
+2024-10-29,,Male,Sliced Olives,Food - Condiments,11.7131085282,1.99,,,Kenya,-0.5388381,37.4596409
+2025-01-31,46-0568709,Male,LED Camping Lantern with USB Charging,Outdoor,1.8969222845,34.99,visa,,Kenya,,
+2025-05-01,00-2506454,Female,Olive Oil,Food - Condiments,13.2025579965,7.99,bankcard,,Kenya,0.5695252,
+2025-07-11,83-7641630,Female,Mini Projector for Smartphones,Electronics,7.8893114653,99.99,mastercard,,Kenya,,
+2024-06-24,20-9771618,Female,Almond Quinoa Salad,Food - Salads,13.8289079033,5.99,americanexpress,,Kenya,,
+2023-10-25,20-9111038,Female,Sushi Rice,Food - Grains,5.1977839878,3.99,,,Kenya,,
+2025-02-06,42-3850503,Male,Sporty Leggings,Clothing - Activewear,27.2510286317,39.99,visa,,Kenya,-0.4993281,
+2025-06-22,88-5018374,Male,Ramen Noodles,Food - Pasta,0.5667736499,0.99,bankcard,,Kenya,0.5142775,35.2697802
+2023-11-21,57-8817769,Female,Adjustable Height Standing Desk Converter,Office,3.7841592409,89.99,,,Kenya,,39.9093269
+2024-05-07,31-7394274,Male,Vegetable Fried Rice Mix,Food - Frozen Food,2.9281398729,3.99,,,Kenya,,35.286286
+2025-02-21,47-0770806,Female,Whole Wheat Pita Bread,Food - Bread,1.4358654439,2.79,,,Kenya,,41.8551162
+2025-08-10,97-1923867,Female,Fruit and Nut Bars,Food - Snacks,4.4961218867,1.99,mastercard,,Kenya,1.0784436,
+2024-09-24,48-1799239,Female,LED Makeup Mirror,Beauty,21.6192067893,39.99,americanexpress,,Kenya,-0.4532293,39.6460988
+2025-04-20,96-7270887,Female,Honey BBQ Ribs,Food - Meat,8.4869065871,12.99,mastercard,,Kenya,-0.1634664,
+2024-05-12,45-1155054,Female,Relaxed Fit Henley Shirt,Clothing - Tops,9.0831759891,29.99,,,Kenya,,
+2025-08-21,71-7103256,Male,Chipotle Black Bean Salad,Food - Salads,13.1921459164,3.29,,,Kenya,1.0931431,
+2025-02-10,85-6021380,Male,Handheld Vacuum,Home Appliances,5.7169579202,79.99,visa,,Kenya,,35.8770642
+2025-03-30,91-8048286,Male,Memory Foam Pillow,Home,30.9792467821,39.99,bankcard,,Kenya,,
+2024-09-07,79-1132723,Male,Ricotta Cheese,Food - Dairy,12.4037826214,4.99,americanexpress,,Kenya,,34.779603
+2025-03-16,17-6453826,Male,Travel Document Organizer,Travel,2.5054632214,15.99,bankcard,,Kenya,,
+2024-04-14,96-5745937,Male,Honey Mustard Dip,Food - Condiments,22.2756781739,3.29,instapayment,,Kenya,-0.1634664,35.5931397
+2025-06-20,66-7939759,Male,Portable Hand Warmer,Accessories,12.4786787149,24.99,,,Kenya,0.3332218,34.4877423
+2025-08-18,57-0901034,Female,Carrot Sticks,Food - Produce,10.6584579068,2.49,,,Kenya,,35.743418
+2025-02-22,52-1205391,Male,Pumpkin Pancake Mix,Food - Breakfast,11.9142593257,4.19,instapayment,,Kenya,-4.0434771,
+2024-05-13,49-8890403,Female,Kids' Gardening Kit,Toys,4.9669160294,24.99,bankcard,,Kenya,,35.6040785
+2025-02-15,22-8216494,Female,Measuring Cups Set,Kitchen,6.5870734752,19.99,,,Kenya,,
+2024-09-06,88-0346474,Female,Herb Garden Planter Box,Garden,19.3934766886,49.99,bankcard,,Kenya,,35.743418
+2024-08-03,94-7588454,Female,Miso Soup Mix,Food - Soups,16.6279668718,3.29,visa,,Kenya,,34.2747004
+2025-05-11,59-1424272,Female,Collapsible Pet Dog Bowl,Pets,2.7200247714,9.99,instapayment,,Kenya,1.2481932,35.1103736
+2023-12-21,14-2807888,Male,Magnetic Spice Jars,Kitchen,3.0374885398,24.99,bankcard,,Kenya,3.5399846,39.0528407
+2025-02-24,34-2344218,Female,Cinnamon Sugar Mix,Food - Baking,4.1445270553,1.49,,,Kenya,,37.1097748
+2025-08-28,13-9429565,Female,Thai Red Curry Paste,Food - Condiments,10.1251762857,3.99,mastercard,,Kenya,0.0074415,
+2024-08-04,02-1716061,Male,Almond Joy Snack Bars,Food - Snacks,9.1221090385,2.99,mastercard,,Kenya,,
+2024-01-27,89-4929134,Female,Quinoa & Black Bean Salad,Food - Salads,0.2385615832,7.49,,,Kenya,-1.0875428,35.8770642
+2025-09-07,87-4637017,Female,LED Desk Light,Home,4.8700336587,34.99,mastercard,,Kenya,0.5695252,34.5583766
+2023-12-07,68-7314016,Male,,Garden,16.3385424902,34.99,bankcard,,Kenya,,
+2024-01-30,51-6910041,Male,Air Mattress,Outdoor,6.4310847948,49.99,instapayment,,Kenya,,
+2024-11-20,87-0256592,Male,Blender Bottle,Fitness,22.4755628176,12.99,bankcard,,Kenya,0.5142775,35.2697802
+2025-01-02,02-7376339,Female,Foldable Electric Scooter,Outdoor,14.6409862385,349.99,bankcard,,Kenya,,
+2024-01-11,67-6512241,Male,Pet Training Pads,Pets,39.0704009001,24.99,mastercard,,Kenya,-0.272699,36.3775152
+2023-12-08,04-4113818,Male,Sweetened Condensed Milk,Food - Baking Goods,19.2958108512,1.89,mastercard,,Kenya,-0.272699,36.3775152
+2023-10-27,30-8589312,Female,Ground Cinnamon,,3.9866879369,1.99,mastercard,,Kenya,,34.4752715
+2024-09-14,86-9775075,Female,Organic Whole Grain Oats,Food - Breakfast,11.3115802597,2.49,,,Kenya,,
+2024-03-20,71-9633565,Male,Mediterranean Chickpea Salad,Food - Salads,7.2247090155,5.99,,,Kenya,-4.1393386,39.3180297
+2025-04-07,48-5816666,Male,Herb Seasoned Couscous,Food - Grains,0.1961792138,2.49,visa,,Kenya,-4.1393386,39.3180297
+2024-06-30,54-7367684,Female,Wine Glasses,Home,9.5340213488,29.99,bankcard,,Kenya,,
+2024-08-19,33-2148382,Female,Adjustable Kitchen Broom Stand,Home,6.2233762784,14.99,,,Kenya,-0.5350427,34.4530968
+2024-06-14,74-9881702,Female,Eco-Friendly Yoga Mat,Fitness,19.4584022075,39.99,,,Kenya,,39.6682065
+2025-04-12,06-3200449,Male,Wooden Toy Train Set,,2.556212391,29.99,instapayment,,Kenya,-2.2695575,
+2024-02-13,44-8291722,Male,Electric Hot Pot,Kitchen,16.5365893637,49.99,,,Kenya,,
+2025-03-20,82-3787820,Male,Under Desk Footrest,Office,4.5287420523,29.99,,,Kenya,0.4607691,34.1114621
+2023-11-21,88-6716764,Male,Magnetic Chess Set,Toys,29.6563364391,19.99,bankcard,,Kenya,-0.5350427,34.4530968
+2024-08-13,04-8385514,Female,Faux Leather Leggings,Clothing - Pants,0.2643904078,49.99,mastercard,,Kenya,-1.1939843,34.6165033
+2024-06-27,31-1518158,Female,Non-Stick Baking Sheets,Kitchen,0.8328710845,29.99,bankcard,,Kenya,-0.2488358,
+2024-03-09,03-2608292,Female,Nutty Granola Clusters,Food - Cereal,14.1680805318,2.49,mastercard,,Kenya,0.5992059,
+2023-12-23,00-9536038,Female,Smart LED Desk Lamp,Office,14.4419187598,39.99,,,Kenya,-0.5388381,
+2024-04-10,,Male,Memory Card,Storage,19.9945053062,15.99,visa,,Kenya,,
+2025-09-16,64-0177983,Male,Gaming Mousepad,Gaming,0.5552841568,19.99,,,Kenya,-0.1634664,
+2023-11-11,04-6261936,Male,Herbal Tea Infuser,Kitchen,5.2068544956,9.99,,,Kenya,0.393611,
+2025-07-18,91-8498593,Female,Crispy Tofu Bites,Food - Protein,0.3620436044,4.99,visa,,Kenya,-0.272699,
+2025-08-13,66-6672004,Male,Cocoa Powder,Food - Baking,17.0028525558,3.99,americanexpress,,Kenya,-2.0980751,
+2024-12-22,62-3477881,Female,,Outdoor,1.0835192756,49.99,instapayment,,Kenya,,37.6456042
+2025-06-03,56-1307209,Female,Pet Activity Tracker,Pets,7.0529228104,59.99,visa,,Kenya,0.490107,
+2024-03-27,95-2075570,Female,Scent Diffuser,Home,3.3477628744,34.99,mastercard,,Kenya,-0.4277809,36.9433591
+2023-11-05,87-9652914,Female,Party Mini Dress,Clothing - Dresses,9.8384618881,69.99,americanexpress,,Kenya,,
+2025-01-13,81-3459176,Female,High-Low Hem Tee,Clothing - Tops,7.545602195,22.99,instapayment,,Kenya,0.5992059,34.779603
+2024-12-24,50-2705482,Male,Hiking Gaiters,Outdoor,4.3335480541,29.99,americanexpress,,Kenya,,34.305278
+2024-11-13,99-0353885,Female,Kettle BBQ Grill,Outdoor,27.6516149081,99.99,visa,,Kenya,0.355636,37.5833061
+2024-08-25,44-6962116,Female,Cushion Covers,,4.7338124946,35.0,,,Kenya,,
+2025-03-03,29-9418683,Male,Vegetable Medley,Food - Produce,5.3350523575,2.99,,,Kenya,0.6812449,
+2025-08-19,31-0808862,Male,Classic Watch,Accessories,4.9854926972,99.99,instapayment,,Kenya,,36.7018311
+2025-06-21,70-2861020,Male,Solar Power Bank,Electronics,2.4547207523,39.99,mastercard,,Kenya,,37.0833753
+2024-05-25,25-6119464,Male,,Pets,1.4747829668,79.99,,,Kenya,0.2827307,
+2024-07-22,44-0664443,Male,Organic Spinach,Food - Produce,4.7564109709,2.99,,,Kenya,,
+2025-07-01,39-8111502,Male,Skincare Set,Beauty,11.4221383665,54.99,instapayment,,Kenya,-0.7134403,
+2024-07-08,77-8041395,Male,Cranberry Citrus Sauce,Food - Condiments,0.8724307777,3.99,,,Kenya,,
+2025-01-10,78-7199675,Female,Blue Denim Jeans,Clothing - Bottoms,1.1319508997,49.99,,,Kenya,,34.1114621
+2024-12-20,24-5103901,Female,Spicy Tuna Salad,Food - Seafood,35.0858449868,4.49,,,Kenya,3.9356389,41.8551162
+2024-05-01,70-2900658,Male,Vegetable Sushi Rolls,Food - Prepared Meals,8.5969715872,5.99,mastercard,,Kenya,0.2827307,34.7518631
+2023-11-30,69-8610164,Female,Ankle Boots,Clothing - Footwear,4.1807710076,89.99,bankcard,,Kenya,-0.5350427,
+2024-08-01,16-6605985,Male,Thai Green Curry Paste,Food - Sauces,34.2630402444,2.49,bankcard,,Kenya,-0.0917016,
+2025-03-10,04-5811063,Female,Portable Air Conditioner,Home Appliances,0.1319215823,299.99,visa,,Kenya,-3.3973104,
+2025-03-11,76-4040204,Female,Creamy Ranch Dressing,Food - Dressings,6.3514589345,2.49,,,Kenya,,39.9093269
+2024-09-05,40-4241240,Female,Maple Almond Butter,Food - Nut Butters,14.3102057203,5.49,americanexpress,,Kenya,,
+2025-01-11,22-4204188,Male,Portable USB-C Monitor,Electronics,5.8633492332,199.99,,,Kenya,,
+2025-03-17,18-2616116,Female,Herb Seasoned Croutons,Food - Salad Toppings,12.8119611234,2.99,,,Kenya,-0.4993281,
+2024-12-02,23-2709068,Male,Compact Pop-Up Tent,Outdoor,6.9001919447,69.99,americanexpress,,Kenya,-0.7771138,
+2024-03-10,11-7829983,Male,Pet Safety Harness,Pets,12.5564714233,24.99,mastercard,,Kenya,-0.4993281,
+2025-03-30,03-1696723,Female,Almond Quinoa Salad,Food - Salads,9.0199903114,5.99,mastercard,,Kenya,0.5695252,34.5583766
+2024-03-22,40-0836241,Female,Sparkling Blood Orange Soda,Food - Beverages,0.034381558,1.99,mastercard,,Kenya,0.4607691,34.1114621
+2023-12-02,25-4608164,Female,Beef Stroganoff Mix,Food - Meal Kits,5.248709672,5.49,visa,,Kenya,0.0514721,
+2024-09-01,63-9479763,Female,Smartphone Tripod with Remote,Photography,31.4256151487,29.99,,,Kenya,,36.7442377
+2025-09-14,90-4430161,Female,Crispy Kale Chips,Food - Snacks,0.7666793779,2.99,,,Kenya,,
+2023-12-24,91-0304432,Female,Creamy Avocado Dip,Food - Snacks,25.9575734477,3.49,instapayment,,Kenya,0.5992059,34.779603
+2024-03-18,11-5958484,Male,LED Camping Lantern with USB Charging,Outdoor,5.1087688514,34.99,americanexpress,,Kenya,,
+2025-10-15,31-3696077,Male,Pasta (Fusilli),Food - Pasta,1.6038611555,1.79,,,Kenya,,37.9952144
+2023-11-29,99-9205600,Female,Fruit and Nut Energy Bites,Food - Snacks,8.8093824789,2.99,mastercard,,Kenya,,37.4596409
+2024-06-01,04-3716884,Female,Maple Cinnamon Almonds,Food - Nuts,5.4372645652,4.29,bankcard,,Kenya,,39.9093269
+2024-06-12,23-7353586,Male,Pleated Midi Dress,Clothing - Dresses,18.1411479036,79.99,mastercard,,Kenya,0.2827307,34.7518631
+2024-04-07,65-3993826,Female,Organic Coconut Sugar,Food - Baking Goods,8.3204750179,4.19,,,Kenya,-1.7864953,37.6311071
+2024-05-22,37-6360311,Male,Electric Heat Pad,Health,14.3219569666,24.99,instapayment,,Kenya,-0.5388381,37.4596409
+2024-12-25,13-3736707,Male,USB-C Hub,Computers,2.9236759709,39.99,,,Kenya,0.490107,35.743418
+2025-03-09,35-8689242,Female,Mixed Berry Smoothie Pack,Food - Frozen Food,6.8241226519,5.99,mastercard,,Kenya,,
+2025-07-14,70-5639386,Female,Homestyle Beef Stew,Food - Canned Soups,0.1417016937,7.99,,,Kenya,-1.7775816,37.1097748
+2025-08-01,39-6399223,Male,Magnetic Spice Jars,Kitchen,6.2552313218,24.99,americanexpress,,Kenya,,
+2025-05-29,83-3939421,Female,Buffalo Cauliflower Bites,Food - Freezer,8.4265254757,6.29,bankcard,,Kenya,-1.7864953,37.6311071
+2024-12-27,81-8758061,Female,Lentil Pasta,Food - Pasta,8.8575236257,4.99,instapayment,,Kenya,,
+2024-04-21,79-3986985,Female,Solar Power Bank,Electronics,4.0604051907,39.99,mastercard,,Kenya,0.0074415,
+2024-04-28,49-2358905,Female,Pest Control Traps,Home,13.4975486123,22.99,,,Kenya,,40.058633
+2024-02-23,92-0630797,Female,Organic Whole Wheat Flour,Food - Baking Goods,8.0315788382,2.99,visa,,Kenya,,
+2025-04-06,49-3880572,Male,Safety Goggles,Safety,1.4139732738,14.99,instapayment,,Kenya,,
+2024-05-15,36-6390335,Female,Creamy Coleslaw Mix,Food - Produce,2.5504758774,2.39,,,Kenya,,35.743418
+2024-10-09,,Male,Personal Security Alarm Keychain,Safety,3.5421316447,10.99,visa,,Kenya,1.7488388,
+2025-06-05,55-8257606,Male,Canned Sardines,Food - Seafood,15.6290869043,3.29,bankcard,,Kenya,0.355636,
+2025-02-28,87-3099143,Male,Multi-Function Smartphone Holder,Electronics,3.1101935023,12.99,visa,,Kenya,-1.0706976,
+2025-09-27,63-4909418,Male,Smartphone UV Sanitizer,Health,1.5457292892,39.99,visa,,Kenya,-2.2695575,40.9006408
+2024-12-01,,Female,Watercolor Set,Art Supplies,4.9023233895,19.99,bankcard,,Kenya,-1.1939843,
+2025-07-10,86-5547734,Female,Folding Backpack Chair,Outdoor,11.5947204634,49.99,instapayment,,Kenya,-0.3030988,
+2025-04-01,19-5917694,Male,Rolling Cooler,Outdoor,9.4258104724,59.99,instapayment,,Kenya,,
+2025-10-17,58-4390745,Male,Caraway Rye Bread,Food - Bakery,3.0036595657,4.79,bankcard,,Kenya,,
+2025-07-12,84-6679981,Female,Bamboo Toothbrush Holder,Health,13.8264102402,14.99,instapayment,,Kenya,-0.582624,
+2024-11-01,16-6724858,Female,Creamy Avocado Dip,Food - Snacks,36.5871813634,3.49,mastercard,,Kenya,1.2481932,35.1103736
+2025-02-25,22-4140448,Female,Peanut Butter Protein Balls,Food - Snacks,32.762320531,5.29,instapayment,,Kenya,,34.7518631
+2024-07-21,46-9342438,Female,Chia Seed Pudding Mix,Food - Breakfast,7.7463508091,4.19,mastercard,,Kenya,,37.2784835
+2024-03-19,36-1897528,Female,Pasta (Fusilli),Food - Pasta,11.4183699769,1.79,mastercard,,Kenya,,40.9006408
+2024-10-16,73-7129911,Female,Digital Camera,Electronics,2.6981466303,299.99,bankcard,,Kenya,-1.1748105,36.8304102
+2024-04-13,77-8202127,Male,Berries Medley,Food - Produce,4.3020052887,6.99,bankcard,,Kenya,,37.0373502
+2024-01-29,07-7203349,Male,Homestyle Beef Stew,Food - Canned Soups,0.8121433277,7.99,,,Kenya,,34.4530968
+2024-12-20,49-2923342,Female,Hummus Trio Pack,Food - Snacks,20.6381281187,5.49,americanexpress,,Kenya,-1.1748105,36.8304102
+2024-10-27,85-2691183,Female,Natural Fruit Snacks,Food - Snacks,2.0463150564,3.99,,,Kenya,,37.2784835
+2024-03-08,30-7117647,Male,Compressible Packing Cubes,Travel,4.4420276607,29.99,,,Kenya,,36.7018311
+2023-10-28,86-7238356,Female,Sparkling Blood Orange Soda,Food - Beverages,15.931954977,1.99,bankcard,,Kenya,0.355636,
+2025-10-22,32-3231279,Female,Multi-Port USB Hub,,1.4098181152,19.99,instapayment,,Kenya,-0.7134403,
+2024-03-02,58-3426232,Female,Toilet Paper (12 rolls),Food - Household,22.8244068571,8.99,,,Kenya,0.490107,
+2025-03-27,83-3516053,Female,Thai Peanut Noodles,Food - Pasta,6.8276992721,4.99,visa,,Kenya,,36.7442377
+2025-08-28,83-5606193,Male,Jump Rope with Counter,,7.4744635084,12.99,,,Kenya,,
+2024-03-24,08-7391996,Male,LED Strip Lights,Home,0.0667698812,19.99,instapayment,,Kenya,0.2827307,34.7518631
+2024-08-24,42-6012697,Female,Eco-Friendly Cleaning Cloths,Home,7.397616717,12.99,,,Kenya,,
+2025-02-05,84-4695730,Female,Honeycrisp Apple Chips,Food - Snacks,6.6760894599,3.49,americanexpress,,Kenya,-3.5106508,39.9093269
+2025-04-12,92-1424916,Male,Dill Pickle Chips,Food - Condiments,36.3499129211,2.29,mastercard,,Kenya,,35.1103736
+2025-02-22,88-9407761,Female,Maxi Wrap Dress,Clothing - Dresses,8.9336785736,49.99,bankcard,,Kenya,0.0351644,
+2025-04-29,71-2497154,Female,Cheesy Broccoli Soup Mix,Food - Soups,35.2466039539,2.99,,,Kenya,,
+2024-06-14,91-3394107,Female,Rain Jacket,Clothing,1.8406603771,64.99,,,Kenya,-1.2816645,36.8458837
+2024-04-16,28-9859301,Male,Foot Spa Bath Massager,Health,25.6054258473,59.99,mastercard,,Kenya,-1.1748105,
+2025-10-15,48-7947291,Male,Graphic Tee,Clothing,4.5943831854,19.99,,,Kenya,,36.8458837
+2024-08-12,76-2888687,Male,Kitchen Scale,Kitchen,1.8933067747,19.99,instapayment,,Kenya,-0.5388381,37.4596409
+2025-02-12,59-8200796,Male,Portable Air Purifier,Health,5.6098223548,69.99,bankcard,,Kenya,,35.6040785
+2024-10-11,25-0213369,Male,Reversible Swimming Pool Lounger,Outdoor,1.2345820254,34.99,,,Kenya,-0.5388381,37.4596409
+2024-02-25,,Male,Marinated Artichokes,Food - Vegetables,16.495478115,3.79,americanexpress,,Kenya,0.636206,
+2025-02-04,21-1509352,Male,Warm Wool Sweater,Clothing - Tops,4.1716543,59.99,,,Kenya,-0.3688967,35.286286
+2024-04-01,45-5541187,Male,Salt and Pepper Grinder Set,Kitchen,5.7522536378,19.99,mastercard,,Kenya,-3.5106508,
+2023-10-28,46-4664272,Female,Smart Fitness Scale,Fitness,13.4243696035,49.99,,,Kenya,-0.4277809,
+2025-05-05,11-8504903,Male,Sliced Bread,Food - Bakery,0.1233219019,2.99,mastercard,,Kenya,,36.3775152
+2025-02-20,22-2915207,Female,Herb Seasoned Rice,Food - Sides,6.2061251021,2.99,visa,,Kenya,,
+2025-02-11,67-5686918,Female,Pet Bed with Removable Cover,Pets,31.554073146,49.99,,,Kenya,0.6812449,
+2025-02-16,42-3776698,Male,Flavored Rice Cakes,Food - Snacks,4.2425212348,2.49,mastercard,,Kenya,1.019089,35.0023048
+2024-04-17,73-2063795,Female,Gluten-Free Brownies,Food - Baking,41.427446109,4.99,bankcard,,Kenya,,39.3180297
+2024-03-25,40-5517650,Male,Children's Garden Tool Set,Garden,3.1808630375,22.99,,,Kenya,,
+2024-04-26,18-9681288,Male,Pineapple Rings,,0.0494045434,2.49,bankcard,,Kenya,,37.2784835
+2024-12-09,88-2442991,Male,Rice Cakes,Food - Snacks,9.0305884018,2.29,,,Kenya,-0.582624,35.1901151
+2024-11-03,88-6085378,Female,Herbed Mushroom Risotto,Food - Prepared Foods,8.9544066304,5.49,,,Kenya,,
+2025-06-14,75-6893765,Female,Window Blinds,Home,2.4182028488,59.99,instapayment,,Kenya,,34.4530968
+2024-09-13,13-3893507,Female,Vegetable Sushi Rolls,Food - Prepared Meals,10.5473316606,5.99,bankcard,,Kenya,,35.1983598
+2024-12-14,75-6195466,Female,Pet Grooming Gloves,Pets,4.3737746346,9.99,visa,,Kenya,,36.7442377
+2025-10-08,23-1078182,Male,Rice Pudding,Food - Desserts,6.0457887433,2.29,americanexpress,,Kenya,-2.0980751,
+2023-12-12,,Male,Electric Wax Warmer,Home,3.427449914,22.99,mastercard,,Kenya,-1.7775816,
+2025-06-26,36-9249430,Male,Dark Chocolate Covered Pretzels,Food - Snacks,8.3053888197,3.99,bankcard,,Kenya,-0.5388381,37.4596409
+2024-05-01,63-3646466,Female,Electric Screwdriver,Tools,9.4638517064,59.99,mastercard,,Kenya,,39.9093269
+2025-01-16,11-2666464,Male,Backpacking Tent,Outdoor,3.1210282724,109.99,,,Kenya,-1.0875428,
+2023-12-11,26-0949893,Female,Maple Pecan Pancake Mix,Food - Breakfast,11.3892996139,4.99,,,Kenya,-0.0998238,
+2024-12-25,60-3433123,Female,Weighted Blanket,Health,0.9575691386,79.99,americanexpress,,Kenya,0.393611,34.305278
+2024-05-07,90-9915581,Female,Travel Eye Mask with Ear Plugs,Travel,9.6297782669,15.99,americanexpress,,Kenya,-2.5265605,
+2024-09-22,29-1226883,Male,Sourdough Bread,Food - Bakery,8.5308922337,4.99,americanexpress,,Kenya,-0.677334,
+2024-12-01,08-1016388,Female,Energy Bites,Food - Snacks,3.6948725711,3.99,bankcard,,Kenya,0.5142775,
+2025-06-29,31-7523767,Female,Digital Food Thermometer,Kitchen,2.5715473681,19.99,bankcard,,Kenya,-4.0434771,39.6682065
+2025-04-16,68-6848990,Male,Organic Almond Flour,Food - Baking,3.1146593771,6.99,,,Kenya,1.7488388,40.058633
+2024-11-11,14-1387606,Female,Pet Nail Clipper,Pets,4.6073999274,12.99,mastercard,,Kenya,,
+2024-04-23,20-1946802,Male,Decorative Throw Blanket,Home,18.7009259013,39.99,visa,,Kenya,-3.2191864,
+2024-05-27,00-5463137,Female,,Food - Beverages,26.6920170773,3.99,mastercard,,Kenya,,36.7018311
+2025-08-21,26-6548532,Male,Portable Bluetooth Speaker,Audio,10.0385775926,49.99,americanexpress,,Kenya,-0.4993281,37.2784835
+2023-11-21,60-9544670,Male,Classic Cheeseburger Mix,Food - Meats,13.9113547692,5.49,americanexpress,,Kenya,,36.8458837
+2025-09-22,95-9720185,Female,Vegetable Lentil Soup,,7.9706095914,3.49,,,Kenya,,34.9458389
+2024-12-21,54-5062193,Male,Ripped Boyfriend Jeans,Clothing - Bottoms,1.9135381875,54.99,,,Kenya,,35.743418
+2025-09-14,96-9201147,Female,Eco-Friendly Cleaning Cloths,Home,14.5786562232,12.99,americanexpress,,Kenya,3.9356389,41.8551162
+2024-08-23,61-4332114,Male,Frozen Pizza,Food - Frozen Foods,11.4648483308,7.99,visa,,Kenya,-0.677334,
+2025-01-22,39-6094076,Male,Fresh Basil Pesto,Food - Sauces,6.3610357539,4.79,visa,,Kenya,0.4607691,
+2024-02-13,96-6587352,Male,Frozen Spinach,,3.6078285799,1.99,instapayment,,Kenya,,
+2024-12-26,33-2548485,Female,Bamboo Toothbrush Holder,Health,3.6365492666,14.99,,,Kenya,-1.0706976,
+2024-06-09,24-7565088,Female,Sports Water Bottle with Infuser,Fitness,1.5106352547,19.99,bankcard,,Kenya,-2.2695575,
+2025-04-22,28-9481785,Female,Italian Herb Balsamic Marinade,Food - Condiments,7.302150136,3.99,bankcard,,Kenya,,35.6040785
+2025-02-12,66-2278802,Male,Ginger Turmeric Tea,Food - Beverages,1.8320773586,3.49,,,Kenya,,35.2697802
+2024-04-19,26-9493619,Female,Almond Crunch Granola Bars,Food - Snacks,22.0388903352,3.49,americanexpress,,Kenya,,40.9006408
+2025-10-12,67-9809912,Female,Acoustic Guitar,,7.08814503,199.99,instapayment,,Kenya,,37.6311071
+2024-01-15,40-6750446,Female,Wild Rice Pilaf,Food - Grains,10.7945437035,3.79,,,Kenya,,36.8304102
+2024-08-21,33-8467434,Male,Pork Chops,Food - Meat,0.9819351469,9.49,bankcard,,Kenya,,36.8458837
+2025-01-25,39-3970229,Male,Chicken Salad Kit,Food - Prepared Foods,48.4805037416,5.99,visa,,Kenya,-4.1393386,
+2025-09-09,36-3965322,Male,Homemade Salsa,Food - Condiments,7.0595277507,3.79,,,Kenya,-0.4993281,
+2024-07-28,66-2799686,Female,Digital Wireless Camera,Home Security,21.6245759469,199.99,mastercard,,Kenya,,36.8304102
+2024-07-12,44-8323575,Female,Biodegradable Trash Bags,Home,1.5456310579,12.99,visa,,Kenya,0.5992059,34.779603
+2024-10-17,84-5956382,Male,Scent Diffuser Oil,Home,0.7159649129,14.99,bankcard,,Kenya,,36.9433591
+2024-03-17,,Male,Avocado Oil Mayo,Food - Condiments,0.9710140892,5.29,mastercard,,Kenya,,41.8551162
+2025-02-13,55-0407699,Female,Smart Home Security Camera,Smart Home,3.1867183168,79.99,instapayment,,Kenya,1.7488388,
+2024-12-08,94-1800199,Female,Chiffon Blouse,Clothing - Shirts,23.7588357485,39.99,americanexpress,,Kenya,2.3354966,
+2025-03-30,99-2035540,Male,Gluten-Free Brownies,Food - Baking,18.9915881655,4.99,,,Kenya,1.7488388,
+2025-08-20,37-8094389,Female,Digital Drawing Tablet,Art Supplies,7.1559848901,79.99,instapayment,,Kenya,0.5992059,
+2024-03-27,35-9541751,Male,Camping Lantern,Outdoor,14.4660850642,34.99,visa,,Kenya,,
+2024-11-21,37-3804045,Female,Educational STEM Kit,Toys,11.7684629384,35.99,instapayment,,Kenya,1.2481932,35.1103736
+2024-08-21,77-7653321,Female,Eggs (dozen),,36.9197976194,2.99,americanexpress,,Kenya,1.0931431,36.7018311
+2024-11-14,,Male,Apple Cinnamon Instant Oatmeal,Food - Cereal,5.1881228709,3.49,americanexpress,,Kenya,,
+2024-03-31,67-5965457,Male,Smartphone Gimbal,,0.075556091,89.99,americanexpress,,Kenya,,
+2025-04-07,95-3279657,Female,Fried Rice,Food - Frozen Foods,4.0569703728,4.29,visa,,Kenya,,
+2024-08-16,07-8908659,Male,Garden Hose Reel,Garden,7.0332945788,49.99,americanexpress,,Kenya,-1.3938636,36.7442377
+2025-10-19,,Female,Memory Foam Mattress Pad,Home,12.9562755349,69.99,bankcard,,Kenya,,
+2025-05-16,47-3411748,Female,Caramel Apple Taffy,Food - Confectionery,3.685054761,1.99,mastercard,,Kenya,,40.058633
+2023-11-22,10-3588910,Male,Photo Album,Home,17.584865176,24.99,visa,,Kenya,1.019089,35.0023048
+2025-01-20,86-8103791,Male,Multi-Cooker,Kitchen,4.8964448915,89.99,americanexpress,,Kenya,3.5399846,
+2025-09-09,36-3867005,Female,,Food - Condiments,4.6598124489,7.99,bankcard,,Kenya,,34.9458389
+2025-01-25,,Male,Water-Resistant Bluetooth Speaker,Audio,34.1238614242,59.99,,,Kenya,0.2827307,
+2025-09-07,72-9880341,Male,LED Flashing Pet Collar,Pets,0.3773946651,14.99,visa,,Kenya,,34.1114621
+2025-08-31,21-1651192,Male,Spinach and Cheese Quiche,Food - Prepared Meals,8.8650109898,5.49,,,Kenya,1.0931431,
+2024-03-26,17-3197065,Female,Organic Black Bean Burger,Food - Frozen Foods,17.4651113441,4.49,instapayment,,Kenya,0.355636,
+2025-01-13,96-3918716,Male,Set of Gardening Gloves with Claws,Garden,1.9022955483,15.99,americanexpress,,Kenya,,36.7819505
+2024-01-10,50-5659412,Male,Rechargeable Laptop Battery Pack,Electronics,27.0531217675,49.99,mastercard,,Kenya,1.2481932,35.1103736
+2025-06-23,,Male,Olive Oil,Food - Condiments,0.3769721667,7.99,visa,,Kenya,-3.3973104,
+2024-07-13,32-4154677,Female,Pasta Primavera,Food - Frozen Foods,4.9436250007,4.99,visa,,Kenya,,35.5931397
+2025-03-18,53-9865459,Female,Cork Yoga Mat,Fitness,13.8791492708,39.99,,,Kenya,-1.1748105,36.8304102
+2024-03-25,37-4943535,Male,Oven-Baked Potato Chips,Food - Snacks,0.3467021963,2.79,americanexpress,,Kenya,,36.8304102
+2024-09-13,,Male,Dog Car Seat Cover,Pets,12.6380076256,39.99,instapayment,,Kenya,-0.677334,34.779603
+2023-10-30,20-2026727,Female,Frozen Pizza,Food - Frozen Foods,17.33593764,7.99,americanexpress,,Kenya,,
+2024-09-23,86-8896671,Female,Vegan Caesar Dressing,Food - Condiments,3.7428922018,3.99,,,Kenya,-3.3973104,38.5559336
+2024-11-28,29-5757521,Male,Surimi Crab Sticks,Food - Seafood,14.2274819439,4.19,mastercard,,Kenya,-0.7134403,37.0373502
+2025-06-30,68-7398676,Male,Adjustable Pedicure Footrest,Beauty,15.7909452218,39.99,instapayment,,Kenya,-0.582624,
+2024-10-03,90-3199125,Male,Coconut Curry Chicken,Food - Frozen Foods,4.590764845,9.99,bankcard,,Kenya,,
+2024-08-08,60-7380147,Female,Trackpad for Laptop,Accessories,34.8078304099,49.99,,,Kenya,-1.1748105,
+2024-12-14,91-7649447,Male,Tuscan Bean Soup,Food - Canned Goods,1.8313748129,2.49,americanexpress,,Kenya,-1.7864953,
+2024-07-31,54-2453570,Female,Lightweight Backpacking Tent,,3.3798589184,129.99,visa,,Kenya,-1.1939843,
+2024-06-29,07-6130082,Male,Magnetic Phone Car Mount,Automotive,1.9340481214,14.99,bankcard,,Kenya,,
+2025-09-21,72-3488377,Male,Peanut Butter,Food - Condiments,11.6625731601,3.79,mastercard,,Kenya,,36.7442377
+2024-03-17,05-2862293,Male,Stainless Steel Travel Mug,Kitchen,5.5511789656,19.99,americanexpress,,Kenya,-1.7864953,
+2023-11-15,34-6409175,Male,Cabbage,Food - Produce,36.7089622952,1.29,instapayment,,Kenya,-0.5388381,
+2024-03-29,69-1085169,Female,Silicone Baking Mats,Kitchen,24.1605303063,19.99,,,Kenya,,34.1114621
+2024-10-18,19-3564442,Male,Wireless Charging Pad,Accessories,1.5444401511,19.99,,,Kenya,0.4607691,
+2024-01-14,26-7583217,Female,Vanilla Bean Greek Yogurt,Food - Dairy,15.3336538805,1.99,,,Kenya,0.2198155,34.4918988
+2024-02-06,75-0754986,Male,Smart Thermostat,,9.6553449468,149.99,,,Kenya,-2.0980751,
+2023-12-10,27-4978463,Male,Spicy Avocado Salsa,Food - Condiments,3.4224792491,4.49,americanexpress,,Kenya,,
+2024-01-10,60-5202645,Male,Balsamic Glazed Brussels Sprouts,Food - Vegetables,9.6892568936,4.99,instapayment,,Kenya,,
+2024-06-13,02-2736451,Male,Shower Curtain Hooks,Home,14.1346776903,12.99,mastercard,,Kenya,,
+2025-09-05,28-5838050,Female,Kettle Chip Variety Pack,Food - Snacks,13.7209515728,3.99,mastercard,,Kenya,0.0351644,
+2024-02-17,54-0705958,Female,Wall-Mounted Wine Rack,Home,11.4237250384,39.99,,,Kenya,-1.3938636,36.7442377
+2024-02-14,62-2239005,Female,Outdoor Inflatable Pool,Outdoor,33.5034070842,149.99,bankcard,,Kenya,0.5142775,35.2697802
+2025-06-28,87-4385932,Female,Raisin Cinnamon Granola,Food - Cereals,0.0307912682,3.79,,,Kenya,-1.5176837,
+2024-10-06,42-4822319,Male,Electric Skillet,Kitchen,1.9716868652,49.99,instapayment,,Kenya,,
+2025-09-28,69-1269091,Male,LED Flashing Pet Collar,Pets,0.5925484422,14.99,instapayment,,Kenya,0.0514721,
+2024-07-30,26-5494845,Female,Fitness Resistance Bands Kit,Fitness,11.0824343024,29.99,americanexpress,,Kenya,-2.0980751,36.7819505
+2025-05-12,53-2736617,Male,Printed Maxi Skirt,Clothing - Skirts,3.9446175548,39.99,bankcard,,Kenya,,
+2025-02-06,19-9936360,Male,Cat Scratching Post with Toys,Pets,2.0494392223,44.99,mastercard,,Kenya,,
+2024-05-13,02-7761908,Female,Caramelized Onion Dip Mix,Food - Snacks,23.5303110992,2.29,bankcard,,Kenya,-1.0387569,37.0833753
+2025-04-17,55-0240334,Male,Garden Tool Set,Garden,12.7233613261,34.99,mastercard,,Kenya,,
+2025-01-15,52-5488041,Male,Dark Chocolate Covered Almonds,Food - Snacks,16.5973230932,7.19,visa,,Kenya,,39.6460988
+2023-11-05,67-9779922,Male,Hand Mixer,Kitchen,6.652815609,29.99,instapayment,,Kenya,,
+2025-04-09,90-2671318,Female,Cocoa Powder,Food - Baking,2.7590247291,3.99,mastercard,,Kenya,-2.0980751,
+2025-05-12,54-3827121,Male,Oven Mitts,Kitchen,1.2520695419,15.99,mastercard,,Kenya,0.053037,
+2025-01-27,21-1162337,Male,Zucchini Noodle Pasta,Food - Vegetables,4.044906409,3.99,,,Kenya,-0.0998238,
+2024-04-13,83-4654084,Male,Sweet and Sour Sauce,Food - Condiments,4.4616023873,2.79,visa,,Kenya,0.2827307,34.7518631
+2025-04-07,64-7114629,Female,Crispy Potato Tots,,1.3433750431,3.69,,,Kenya,0.3332218,34.4877423
+2025-09-21,79-8077976,Male,,Clothing - Shirts,43.004789602,45.99,bankcard,,Kenya,,36.3642919
+2024-10-06,37-1836512,Male,Car Diagnostic Scanner,Automotive,7.8502723611,49.99,instapayment,,Kenya,,
+2024-09-08,31-0691107,Female,Balsamic Fig Dressing,Food - Condiments,6.7660732682,3.79,,,Kenya,,
+2023-11-19,36-0958626,Male,Grilled Vegetable Medley,Food - Vegetables,4.1673617101,4.49,mastercard,,Kenya,,38.5559336
+2023-12-14,37-4681115,Male,Frozen Berry Blend,Food - Frozen Foods,8.3823444604,4.99,mastercard,,Kenya,,35.743418
+2025-06-07,14-8914804,Male,Maple Almond Yogurt,Food - Dairy,15.1661376096,1.89,,,Kenya,,
+2025-05-26,87-0088158,Female,Spicy Tuna Salad,Food - Seafood,11.7452326618,4.49,visa,,Kenya,-1.7864953,37.6311071
+2024-03-04,90-8354635,Male,Strawberry Banana Smoothie Pack,Food - Frozen,23.0264994499,4.99,americanexpress,,Kenya,,
+2023-12-17,85-4737420,Female,Pita Bread,Food - Bakery,15.3976555254,2.99,,,Kenya,-4.0434771,39.6682065
+2024-10-16,80-9871091,Male,Sweet Potato Mash,Food - Frozen Foods,3.7398478071,3.99,instapayment,,Kenya,0.5142775,35.2697802
+2024-04-22,34-4730320,Male,Pet First Aid Kit,Pets,0.7368518212,29.99,instapayment,,Kenya,1.3081095,35.2066038
+2024-03-30,12-1268533,Female,Chocolate Peanut Butter Cups,Food - Snacks,12.3303667602,2.29,americanexpress,,Kenya,,34.4530968
+2025-07-09,64-1655221,Female,Vacuum Sealer Machine,Kitchen,15.9462301469,89.99,,,Kenya,3.1155165,35.6040785
+2023-11-15,46-1301504,Female,Creative Puzzle Game,Toys,0.3767629453,19.99,instapayment,,Kenya,,35.729768
+2025-10-22,66-5586144,Male,Cocoa Powder,Food - Baking,12.0855521022,3.99,visa,,Kenya,-1.0706976,
+2024-11-27,63-5831576,Female,Pet Camera with Treat Dispenser,Pets,6.4129339613,149.99,,,Kenya,,
+2025-07-18,08-3987896,Female,Wall-Mounted Spice Rack,Kitchen,0.6330600384,39.99,,,Kenya,-0.4993281,37.2784835
+2025-01-07,00-1444814,Female,Floral Wrap Top,Clothing - Tops,6.3011706268,49.99,mastercard,,Kenya,-2.5265605,
+2024-07-07,35-3694909,Female,Plant-Based Protein Bars,Health,2.7269782024,19.99,mastercard,,Kenya,0.4607691,
+2024-05-19,54-0395043,Male,Buffalo Cauliflower Bites,Food - Freezer,5.5404607957,6.29,visa,,Kenya,,34.9458389
+2025-04-04,76-3524248,Male,Basil Pesto Pasta,Food - Prepared Meals,19.244166715,6.49,,,Kenya,,37.0722303
+2025-03-04,23-2872683,Male,Chili Beans (canned),Food - Canned Goods,7.7205940894,1.69,mastercard,,Kenya,,35.6040785
+2024-03-24,89-9643779,Male,Board Game,Toys,5.0910531339,34.99,mastercard,,Kenya,-1.0387569,
+2023-11-17,66-8163241,Female,Mango Chutney,Food - Condiments,0.047789203,3.99,americanexpress,,Kenya,-1.1748105,
+2024-02-25,,Female,Bamboo Cutting Board,Kitchen,42.1007383993,22.0,visa,,Kenya,,35.8770642
+2025-09-29,07-4153588,Male,Rechargeable Laptop Battery Pack,Electronics,1.3558261315,49.99,visa,,Kenya,0.5695252,34.5583766
+2024-09-15,,Female,Rustic Wooden Picture Frame,Home,3.3770468645,19.99,visa,,Kenya,-0.4277809,
+2023-11-08,73-9568152,Male,Picnic Blanket,Outdoor,4.9844762474,29.99,mastercard,,Kenya,-0.2488358,
+2024-07-25,89-6624546,Female,Paprika,Food - Spices,4.5155254708,1.79,,,Kenya,0.490107,35.743418
+2024-05-08,13-3047974,Male,Portable Solar Charger,Electronics,7.9793719335,29.99,,,Kenya,3.1155165,35.6040785
+2024-01-21,05-9569305,Female,Chickpeas,Food - Canned Goods,1.7997215226,1.29,,,Kenya,1.3081095,35.2066038
+2024-02-28,61-7604126,Male,Cinnamon Raisin Bread,Food - Bakery,21.1885326633,3.79,americanexpress,,Kenya,1.0931431,36.7018311
+2023-12-07,33-9848511,Male,Marinated Artichokes,Food - Vegetables,11.2464187069,3.79,americanexpress,,Kenya,-0.3030988,36.080026
+2025-03-17,89-1889564,Male,Berry Smoothie Mix,Food - Frozen Foods,5.2650990407,4.99,visa,,Kenya,,36.9433591
+2025-04-08,05-5116436,Female,Habanero Hot Sauce,Food - Condiments,1.2417558596,3.79,mastercard,,Kenya,,35.2066038
+2024-10-17,25-4432089,Male,Kids' Craft Supplies Set,Toys,0.6161162614,24.99,americanexpress,,Kenya,,34.2747004
+2025-09-05,75-2669000,Female,First Aid Kit,Health,9.1119068723,29.99,bankcard,,Kenya,,
+2023-12-23,72-4047314,Female,Digital Thermostat,Home,21.9540374016,59.99,visa,,Kenya,0.5142775,35.2697802
+2024-11-06,79-5722942,Female,Pet Hair Vacuum Cleaner Attachment,Pets,7.5421068988,14.99,visa,,Kenya,,
+2024-06-29,93-8476178,Female,Fishing Rod,Outdoor,5.2965694805,49.99,,,Kenya,,34.5583766
+2024-06-08,07-8120157,Female,Classic BBQ Sauce,Food - Condiments,25.0373921876,2.79,,,Kenya,-1.0706976,
+2023-12-27,08-9812760,Female,LED Flashing Pet Collar,Pets,21.9776820627,14.99,mastercard,,Kenya,-1.3938636,36.7442377
+2024-08-02,01-8945953,Female,Turmeric Ginger Tea,Food - Beverages,10.6309554652,3.29,instapayment,,Kenya,0.490107,35.743418
+2025-01-10,22-7898076,Female,Laptop Stand,Accessories,23.7256343193,29.99,bankcard,,Kenya,,38.5559336
+2025-07-14,72-8245717,Female,Portable Hammock,Outdoor,0.6730817444,27.99,instapayment,,Kenya,-1.0387569,
+2024-05-19,28-6869042,Female,Vegan chocolate chip cookies,,9.7934559904,4.79,,,Kenya,,
+2025-03-29,16-0475824,Male,Silicone Baking Molds,Kitchen,2.3335768955,15.99,bankcard,,Kenya,,
+2025-05-19,11-1292161,Male,Lentil Pasta,Food - Pasta,2.3649850399,4.99,americanexpress,,Kenya,-0.4993281,37.2784835
+2024-05-05,36-6766465,Female,Apple Juice,Food - Beverages,16.3965006264,3.29,bankcard,,Kenya,,
+2024-04-19,65-8123683,Male,Home Brewing Starter Kit,Food,17.9575228306,79.99,,,Kenya,,37.9943453
+2024-11-27,27-7591773,Male,Pretzel Bites,Food - Snacks,13.0509793166,4.99,americanexpress,,Kenya,3.1155165,
+2024-01-24,45-9466504,Female,Kids Tablet,Electronics,5.4078483409,129.99,instapayment,,Kenya,0.2827307,34.7518631
+2024-12-22,32-4427226,Female,Over-the-Door Hooks,Home,5.7373758326,12.99,,,Kenya,,
+2025-06-02,56-2487357,Male,Bamboo Memory Foam Pillow,Home,2.6129282864,34.99,instapayment,,Kenya,,34.9458389
+2024-09-01,90-4399398,Female,Caraway Rye Bread,Food - Bakery,16.3141621078,4.79,americanexpress,,Kenya,-0.1566093,
+2024-02-24,07-0647055,Male,Chipotle Sauce,Food - Condiments,8.2523524172,3.29,,,Kenya,,
+2025-08-27,24-2717896,Female,Watering Can with Nozzle,,0.6321485866,19.99,bankcard,,Kenya,,
+2023-12-14,67-7832269,Female,Adjustable Dog Harness,Pets,0.1628284956,24.99,americanexpress,,Kenya,0.355636,
+2025-03-13,95-2428362,Female,Stylish Wireless Earbuds,Audio,6.4975210517,59.99,,,Kenya,,
+2025-07-27,37-9180241,Male,Digital Voice Recorder,Electronics,5.8959157235,49.99,instapayment,,Kenya,-3.5106508,
+2024-11-12,34-9309217,Male,Electric Egg Cooker,Kitchen,0.2880131315,29.99,instapayment,,Kenya,-0.5388381,37.4596409
+2025-08-10,87-4506087,Female,Noise-Canceling Headphones,Audio,0.2434785047,119.99,mastercard,,Kenya,-1.1939843,34.6165033
+2023-12-01,00-9258043,Male,Electric Bike,Bicycles,9.2626358101,899.99,,,Kenya,,34.779603
+2024-12-30,58-2547019,Female,Chili Beans in Sauce,Food - Canned Goods,15.5377740556,1.79,,,Kenya,-0.7771138,
+2025-06-10,61-8836994,Male,Camera Lens Cleaning Kit,Photography,2.1578582785,14.99,instapayment,,Kenya,1.0931431,36.7018311
+2025-06-30,51-4226587,Male,Electric Fondue Pot,Kitchen,26.4136538664,39.99,mastercard,,Kenya,-0.1634664,35.5931397
+2025-03-31,00-7343374,Male,Vanilla Pudding Mix,Food - Baking,1.6350383584,1.29,mastercard,,Kenya,-1.2816645,36.8458837
+2025-07-21,34-2455981,Male,Crispy Onion Rings,Food - Frozen Foods,19.9811040304,4.29,visa,,Kenya,-0.3688967,
+2024-03-29,70-7131179,Female,Children's Backpack,Accessories,11.4413137064,29.99,visa,,Kenya,,36.9433591
+2024-03-15,47-3923090,Female,Rechargeable Laptop Battery Pack,,4.1117919949,49.99,visa,,Kenya,,37.0373502
+2025-02-10,33-4365263,Female,Slingback Sandals,Clothing - Footwear,5.3679684164,29.99,,,Kenya,,
+2024-05-22,50-3766615,Male,Sushi Rice,Food - Grains,12.8606796396,3.99,bankcard,,Kenya,-1.3938636,
+2024-01-06,67-0686964,Male,Crispy Kale Chips,Food - Snacks,21.8873940454,2.99,,,Kenya,,34.4212109
+2024-12-24,53-2047180,Male,Kids' STEM Robotics Kit,,31.7400925318,59.99,visa,,Kenya,,35.1103736
+2025-01-20,09-3398122,Male,Pumpkin Puree,Food - Canned Goods,7.2429607369,2.99,instapayment,,Kenya,-3.5106508,39.9093269
+2024-03-17,13-0332628,Male,Kids' Crafting Station,Toys,2.0872058908,49.99,,,Kenya,-1.7864953,37.6311071
+2025-02-09,40-3723443,Female,Organic Coconut Oil,,5.5104138353,8.99,,,Kenya,,
+2025-05-19,16-0331630,Female,Rechargeable Electric Screwdriver,Tools,13.6926229184,39.99,americanexpress,,Kenya,0.5992059,
+2024-11-23,55-9216277,Male,Action Camera,Electronics,10.0221216442,199.99,visa,,Kenya,,
+2024-08-03,48-2138902,Female,Kettle BBQ Grill,Outdoor,1.0877828777,99.99,americanexpress,,Kenya,-0.582624,35.1901151
+2025-06-07,54-6950570,Female,Overnight Hiking Backpack,Outdoor,12.5250306386,79.99,bankcard,,Kenya,,41.8551162
+2025-09-19,85-2224245,Male,Personal Blender with Cups,Kitchen,1.1946643526,34.99,visa,,Kenya,,37.2784835
+2025-06-27,,Male,Adjustable Pedicure Footrest,Beauty,2.1019410339,39.99,instapayment,,Kenya,,37.5833061
+2025-03-21,73-9420479,Male,Himalayan Pink Salt,Food - Condiments,5.1743490671,1.99,bankcard,,Kenya,,
+2024-10-23,04-8691967,Male,Fruit and Nut Bars,Food - Snacks,20.5374830025,1.99,americanexpress,,Kenya,0.5142775,35.2697802
+2025-09-25,54-2934844,Male,Car Escape Tool,Automotive,11.1798871246,12.99,visa,,Kenya,-0.677334,34.779603
+2024-05-09,16-6725492,Male,Quinoa and Kale Salad Kit,Food - Salads,6.9266603373,5.29,americanexpress,,Kenya,,
+2025-06-01,52-9906596,Female,Foldable Yoga Mat,Fitness,8.2399158294,29.99,americanexpress,,Kenya,,34.4530968
+2024-06-14,81-2092095,Female,Vanilla Pudding Mix,,1.7645893599,1.29,,,Kenya,-2.2695575,
+2024-05-17,13-0366719,Male,Teriyaki Chicken Bowl,Food - Prepared Meals,1.2230201908,6.49,,,Kenya,1.0931431,
+2025-08-01,83-4460456,Female,Ice Cube Tray with Lid,Kitchen,6.9369186501,10.99,instapayment,,Kenya,,35.5931397
+2025-04-25,27-6116226,Male,Warm Wool Sweater,Clothing - Tops,4.1483117608,59.99,instapayment,,Kenya,,
+2024-05-22,55-9574368,Male,Cold Brew Coffee Concentrate,Food - Beverages,0.142926711,7.99,visa,,Kenya,0.3332218,
+2023-10-27,67-9809968,Female,Instant Pot,Kitchen,14.3539820268,89.99,americanexpress,,Kenya,0.355636,
+2024-07-05,18-6744264,Male,Compact Refrigerator,Home Appliances,23.3541692955,199.99,mastercard,,Kenya,-0.582624,35.1901151
+2024-06-08,18-1467619,Male,Italian Pasta,Food - Grains,5.9949132637,2.29,instapayment,,Kenya,-4.1393386,39.3180297
+2024-02-04,04-3994077,Male,Pet Grooming Gloves,Pets,19.7051431073,9.99,instapayment,,Kenya,-1.1939843,
+2025-10-12,84-1185873,Male,Savory Rice Cakes,Food - Snacks,21.8955200006,2.5,bankcard,,Kenya,-1.3938636,
+2024-07-07,71-6166674,Male,Tactical Backpack,Outdoor,5.9379879471,59.99,americanexpress,,Kenya,,34.2747004
+2025-07-27,01-1423488,Male,Hummus,Food - Snacks,4.5232875469,4.29,instapayment,,Kenya,0.5142775,35.2697802
+2024-12-13,,Female,Creamy Avocado Dip,,0.4708726367,3.49,bankcard,,Kenya,,
+2024-01-02,49-7578871,Male,Teriyaki Tofu Stir-Fry,Food - Prepared Meals,10.8737363981,7.49,mastercard,,Kenya,,34.779603
+2023-12-22,,Female,LED Canopy Lights,Outdoor,3.297332908,29.99,visa,,Kenya,,37.6456042
+2024-03-30,42-7894350,Female,Multi-Function Meat Tenderizer,Kitchen,4.9346818385,19.99,bankcard,,Kenya,,34.5583766
+2024-06-16,14-7547227,Male,Leek and Potato Soup,Food - Soups,6.1688392394,3.29,,,Kenya,,39.6682065
+2025-08-30,29-4903872,Male,Granola Bars,Food - Snacks,0.0846395384,4.99,,,Kenya,,
+2025-05-01,56-1538839,Male,Classic Caesar Salad Kit,Food - Salads,2.6115235348,4.99,instapayment,,Kenya,,35.0023048
+2024-06-20,51-3906608,Male,Coconut Chia Seed Pudding,Food - Snacks,1.4035211104,2.99,bankcard,,Kenya,0.490107,35.743418
+2024-09-16,68-6808454,Female,Cranberry Almond Granola,Food - Breakfast,13.429750565,4.29,bankcard,,Kenya,,
+2024-03-07,23-0971519,Female,Cable Knit Beanie,Clothing - Accessories,25.7553152415,19.99,,,Kenya,0.6812449,34.4212109
+2024-11-25,36-7796843,Male,Watercolor Brush Pens,Art Supplies,3.2342052851,19.99,instapayment,,Kenya,,36.080026
+2024-01-04,88-8130022,Female,Elderberry Syrup Kit,Health,1.5159905206,22.99,,,Kenya,-4.1393386,39.3180297
+2024-12-30,12-0378575,Male,LED Desk Lamp,Home,11.6928406053,35.0,,,Kenya,0.490107,
+2025-06-09,16-6129086,Male,Feta Cheese Crumbles,Food - Dairy,24.4970133803,2.49,instapayment,,Kenya,,34.779603
+2024-08-09,78-1132228,Female,Sporty Slide Sandals,Clothing - Footwear,8.0954057419,24.99,americanexpress,,Kenya,,
+2024-04-18,41-5131817,Male,Organic Tomato Ketchup,,6.8045814735,3.49,bankcard,,Kenya,,36.9785033
+2025-09-04,99-6357252,Female,Pineapple Coconut Rice Mix,Food - Grains,7.9743592575,3.99,,,Kenya,0.6812449,
+2024-12-26,91-9420797,Male,Almond Flour Tortillas,Food - Baking & Cooking,4.7516787499,4.99,instapayment,,Kenya,-0.5350427,
+2025-02-14,82-3963937,Male,Peach Slices (canned),Food - Canned Goods,4.4546177908,2.49,mastercard,,Kenya,0.5992059,34.779603
+2025-06-30,,Female,Herbed Goat Cheese,Food - Cheese,9.4200344492,5.49,americanexpress,,Kenya,,38.5559336
+2024-12-28,28-0707540,Female,Classic BBQ Sauce,Food - Condiments,0.8629310376,2.79,americanexpress,,Kenya,1.2481932,
+2024-10-06,72-1643280,Male,Wireless Charging Pad,Accessories,6.6964070404,19.99,,,Kenya,,35.743418
+2024-05-20,13-8708216,Female,Silicone Stretch Lids,Kitchen,2.4475281427,14.99,visa,,Kenya,3.1155165,
+2024-02-11,30-2808509,Male,Electric Kettle with Temperature Control,Kitchen,21.2158692185,49.99,visa,,Kenya,,36.3642919
+2025-05-12,41-5662530,Male,Teriyaki Salmon Fillets,Food - Seafood,3.0995925847,9.99,mastercard,,Kenya,-4.0434771,
+2024-07-02,80-8308924,Female,Kids' Educational Tablet,Electronics,19.5893812431,129.99,bankcard,,Kenya,0.636206,
+2025-07-22,56-9356377,Female,Cat Scratching Post with Toys,Pets,4.9693083926,44.99,visa,,Kenya,-0.582624,35.1901151
+2024-04-11,66-2016109,Female,Corn Tortillas,Food - Bakery,0.3056951576,2.49,mastercard,,Kenya,0.202957,
+2025-05-10,53-6271004,Female,Portable Pet Bathing Tool,Pets,3.2041980868,29.99,,,Kenya,,
+2024-07-21,69-5565108,Female,Free-Range Eggs,Food - Dairy,2.2841361901,3.99,visa,,Kenya,,
+2025-02-23,78-7448122,Male,Himalayan Pink Salt,Food - Condiments,3.4176356382,1.99,bankcard,,Kenya,-1.7775816,
+2025-04-27,18-0441944,Female,Fishing Rod,Outdoor,23.8358191569,49.99,,,Kenya,,
+2025-05-16,64-0086876,Female,Lemon Sorbet,Food - Frozen Desserts,16.1635293934,4.99,,,Kenya,,
+2024-01-25,42-6238864,Male,Pepper Jack Cheese Sticks,Food - Snacks,5.5146405626,2.49,mastercard,,Kenya,1.2481932,
+2025-09-14,73-7719052,Male,Compressible Packing Cubes,Travel,6.9705712155,29.99,visa,,Kenya,,
+2024-02-29,25-2976172,Female,Children's Musical Instrument Set,,18.0337571829,39.99,,,Kenya,,
+2024-03-25,86-3138165,Female,Mini Indoor Hydroponic Garden,Garden,7.6565770621,59.99,instapayment,,Kenya,,
+2024-08-23,21-6136251,Male,Car Sunshade,Automotive,11.1609647743,19.99,instapayment,,Kenya,,
+2024-07-14,29-7915652,Female,Wine Decanter,Home,3.3284870302,34.99,,,Kenya,-0.7134403,
+2024-09-30,57-9418126,Male,BBQ Sauce,Food - Condiments,3.4931848046,3.49,mastercard,,Kenya,,34.7679568
+2025-05-11,52-2050337,Male,Electric Heating Pad,Health,3.507164004,20.99,americanexpress,,Kenya,0.6812449,
+2025-10-22,50-7371279,Female,Air Purifier,Home,5.6212250437,129.99,mastercard,,Kenya,,35.1901151
+2025-10-13,73-9748312,Male,Frozen Mixed Vegetables,Food - Frozen,7.9139617857,1.99,visa,,Kenya,,40.1168906
+2025-01-21,81-8469172,Female,Dish Rack,,29.9814344981,24.99,,,Kenya,-0.5350427,34.4530968
+2025-08-30,10-2055132,Female,Pet Nail Clipper,Pets,1.5665512022,12.99,instapayment,,Kenya,-0.5388381,
+2025-08-08,04-0834700,Male,Organic Tomato Soup,Food - Canned Goods,12.8040775129,3.79,instapayment,,Kenya,-1.7775816,
+2025-09-11,46-0972496,Female,Lemon Sorbet,Food - Frozen Desserts,2.4072149178,4.99,,,Kenya,1.0784436,34.1810057
+2024-02-22,18-1695943,Male,Multifunctional Pocket Tool,Tools,6.663557863,19.99,mastercard,,Kenya,,
+2023-12-18,58-4013422,Male,Baked Potato Chips,Food - Snacks,1.3475406123,2.49,,,Kenya,,39.9093269
+2023-12-14,08-0413711,Female,Honey,Food - Condiments,11.4930692269,5.49,instapayment,,Kenya,,
+2025-05-07,84-0719814,Female,Cinnamon Roll Kit,Food - Baking,11.8401450304,6.89,americanexpress,,Kenya,,
+2025-03-16,81-2034398,Female,Herbed Mushroom Risotto,Food - Prepared Foods,0.8729926996,5.49,visa,,Kenya,,37.2634146
+2024-04-29,47-7723153,Female,Vegetable Korma,Food - Frozen,3.5227768641,6.49,bankcard,,Kenya,0.0351644,36.3642919
+2024-01-06,66-0487728,Male,Artisan Cornbread Mix,Food - Baking,8.4049540635,2.49,bankcard,,Kenya,,
+2024-08-11,21-1452318,Female,Mini Projector for Smartphones,Electronics,31.4700552168,99.99,instapayment,,Kenya,,
+2024-04-21,69-2041223,Female,Electric Heating Pad,Health,2.6301155941,20.99,americanexpress,,Kenya,-3.5106508,
+2024-01-21,17-0635321,Male,Dog Waste Bag Dispenser,Pets,0.1291419005,6.99,instapayment,,Kenya,-0.677334,
+2025-07-03,95-4815484,Male,,Electronics,22.3108626166,34.99,visa,,Kenya,3.5399846,39.0528407
+2024-10-27,61-1145026,Female,Vegetable Samosas,Food - Frozen,7.3659634976,4.99,instapayment,,Kenya,,
+2024-03-27,66-1038083,Female,Motion Sensor Light,Home,7.7270770791,19.99,bankcard,,Kenya,0.5695252,
+2024-05-10,01-0350115,Female,Adjustable Pedicure Footrest,Beauty,27.907222801,39.99,,,Kenya,,
+2024-04-10,86-0985684,Male,Foam Roller for Muscle Recovery,Fitness,10.841233255,29.99,bankcard,,Kenya,-0.5388381,
+2024-05-16,02-7740181,Female,Car Seat Organizer,Automotive,17.9138817586,14.99,visa,,Kenya,0.2827307,34.7518631
+2023-12-11,53-6117070,Female,Vegetable Quinoa Bowl,Food - Frozen Meals,10.2280393688,5.99,bankcard,,Kenya,,
+2023-12-28,60-2802889,Female,High-Waisted Skirt,Clothing - Bottoms,7.10606176,34.99,mastercard,,Kenya,,
+2024-10-15,97-1822094,Female,Customizable Name Plate,Office,4.1645491183,19.99,mastercard,,Kenya,-0.4532293,39.6460988
+2025-02-25,86-5278432,Male,Graphic Tee,Clothing,3.2846726691,19.99,,,Kenya,0.5142775,
+2024-06-05,,Female,Spaghetti and Meatball Dinner Kit,Food - Meal Kits,1.1362055329,7.99,bankcard,,Kenya,,34.7518631
+2025-10-12,56-7511623,Male,Ethical Wool Scarf,Clothing - Accessories,3.1641828979,29.99,visa,,Kenya,,
+2023-11-26,75-6500557,Male,Bamboo Cotton Tank Top,Clothing - Tops,0.4388910485,22.99,americanexpress,,Kenya,,34.5583766
+2024-05-19,51-9437628,Male,Floral Wrap Top,Clothing - Tops,39.5273537535,49.99,bankcard,,Kenya,,
+2023-12-06,64-2746361,Male,Black Bean Salsa,Food - Snacks,27.0482920232,3.49,bankcard,,Kenya,-3.2191864,
+2025-06-28,95-7562591,Male,Honeycrisp Apple Chips,Food - Snacks,26.5060975666,3.49,americanexpress,,Kenya,,37.6456042
+2025-06-15,08-0276256,Male,Organic Tomato Ketchup,Food - Condiments,42.5038953342,3.49,bankcard,,Kenya,,
+2024-01-27,03-4519327,Female,Customizable Name Plate,Office,3.8185032212,19.99,instapayment,,Kenya,-1.0706976,34.4752715
+2024-03-10,89-9119476,Male,Smart Water Bottle,Fitness,0.0777735361,39.99,instapayment,,Kenya,,
+2025-01-23,59-9927890,Female,Baked Mac and Cheese,Food - Frozen Foods,2.7115413326,5.99,americanexpress,,Kenya,,35.743418
+2024-02-17,16-0110115,Male,Garlic Naan Bread,Food - Bakery,8.6715126795,3.99,instapayment,,Kenya,,40.529246
+2025-02-11,19-7620618,Female,Bluetooth Tracker,Accessories,7.5863130159,19.99,mastercard,,Kenya,,
+2024-11-01,00-6728614,Male,Pleated Midi Dress,Clothing - Dresses,5.913813241,79.99,,,Kenya,,
+2025-06-16,08-8170026,Male,Garden Vegetable Chips,Food - Snacks,31.5436791913,3.49,mastercard,,Kenya,,
+2025-05-21,34-5326691,Male,Sea Salt Tortilla Chips,Food - Snacks,17.7432986229,2.49,,,Kenya,-4.1393386,39.3180297
+2024-11-01,04-3889098,Female,Weighted Jump Rope with Counter,Fitness,8.1390022072,14.99,instapayment,,Kenya,-0.677334,
+2024-11-18,44-0742963,Female,Mango Chunks,Food - Frozen Fruits,11.8422430071,4.89,mastercard,,Kenya,,34.1810057
+2025-02-17,58-0229977,Female,Handheld Garment Steamer,Home,1.3393864001,34.99,bankcard,,Kenya,0.355636,37.5833061
+2023-11-10,18-8920193,Female,Oven-Baked Cheese Crisps,,4.2234508825,3.99,,,Kenya,,39.3180297
+2023-11-20,22-9616023,Male,Classic Caesar Dressing,Food - Condiments,11.080037643,3.49,mastercard,,Kenya,,
+2025-01-25,04-8858377,Male,Sweet Corn Fritters,Food - Frozen,20.8253798442,4.49,,,Kenya,,
+2025-07-25,95-1864218,Male,Spinach and Cheese Quiche,Food - Prepared Meals,5.4289611238,5.49,instapayment,,Kenya,,34.305278
+2025-02-27,93-0978259,Male,Travel Size Toiletry Bottles,Travel,5.1768301899,9.99,mastercard,,Kenya,,
+2025-04-15,43-7147997,Female,Portable Phone Charger,Accessories,2.1405331495,29.99,bankcard,,Kenya,,
+2024-08-25,88-1159673,Male,Ramen Noodle Soup Cups,Food - Prepared Meals,0.0287833951,1.29,mastercard,,Kenya,,34.1114621
+2024-06-13,50-3802260,Male,Tropical Fruit Bowl,Food - Snacks,12.5406486202,4.99,instapayment,,Kenya,,
+2024-09-26,74-0035650,Female,Garlic Parmesan Roasted Nuts,,37.1275093403,4.89,instapayment,,Kenya,,35.6040785
+2024-08-11,77-3498432,Female,Stylish Wireless Earbuds,Audio,14.017858952,59.99,,,Kenya,3.5399846,
+2024-06-24,61-8407769,Male,Decorative Throw Pillows,Home,5.6695086978,29.99,mastercard,,Kenya,,36.7442377
+2024-02-20,20-3810266,Female,Stuffed Bell Peppers,Food - Frozen Meals,4.6801086855,5.99,,,Kenya,0.393611,34.305278
+2025-09-13,49-5859052,Female,Coconut Curry Sauce,Food - Sauces,10.0504621642,3.89,americanexpress,,Kenya,,34.1114621
+2024-02-29,38-0947505,Female,Buffalo Cauliflower Wings,Food - Frozen Foods,2.5878829112,6.99,bankcard,,Kenya,,36.4310251
+2024-03-13,33-2601598,Female,Tabletop Fire Pit,Outdoor,4.5870021319,79.99,mastercard,,Kenya,1.019089,
+2025-09-28,35-5953771,Male,,Pets,0.2154202907,10.99,bankcard,,Kenya,,
+2024-08-07,40-2251065,Male,Smart Light Bulbs,Smart Home,7.4460994815,34.99,instapayment,,Kenya,0.0351644,
+2024-01-29,33-3359245,Female,Ceramic Knife Set,Kitchen,16.439848987,39.99,americanexpress,,Kenya,,34.1114621
+2024-12-28,92-1762273,Male,Printed Maxi Skirt,Clothing - Skirts,7.9841042152,39.99,bankcard,,Kenya,,34.2747004
+2025-05-07,52-7771142,Male,Cinnamon Ice Cream,Food - Frozen Desserts,13.4403240805,4.99,,,Kenya,-0.272699,36.3775152
+2024-09-07,96-7817807,Female,Portable Massage Table,Health,27.9679458812,199.99,,,Kenya,,
+2025-07-19,27-0036760,Male,Sports Windbreaker,,12.0891312189,44.99,mastercard,,Kenya,,38.5559336
+2025-10-21,44-4337901,Male,Garlic Butter Shrimp,Food - Seafood,1.8202826288,8.99,bankcard,,Kenya,-0.272699,
+2024-02-20,71-5778177,Female,Tomato Paste,Food - Canned Goods,5.7188869972,1.29,,,Kenya,,
+2024-09-21,50-2343997,Female,Italian Pasta,Food - Grains,23.5274802988,2.29,mastercard,,Kenya,,35.6040785
+2023-12-20,50-0159235,Male,Children's Gardening Set,Toys,1.5113552163,19.99,americanexpress,,Kenya,,
+2025-03-09,74-5407141,Female,Water Bottle with Built-in Fruit Infuser,Fitness,7.206254606,18.99,visa,,Kenya,-0.1566093,35.1983598
+2024-10-04,,Female,,Health,8.9030432466,34.99,,,Kenya,,
+2023-12-15,,Male,Inflatable Party Cooler,Outdoor,28.3006022473,19.99,bankcard,,Kenya,-0.0917016,34.7679568
+2023-12-04,10-7130078,Male,Pet Hair Remover,Pets,22.1406872064,9.99,,,Kenya,0.4607691,34.1114621
+2025-10-07,70-2049692,Male,Home Delivery Food Journal,Health,21.4478256819,14.99,bankcard,,Kenya,,36.4310251
+2024-10-24,35-7853432,Female,Desk Organizer Set,Office,4.1162717359,29.99,mastercard,,Kenya,0.4607691,
+2023-12-03,59-8515897,Female,Home Office Chair,Furniture,22.9525680809,199.99,bankcard,,Kenya,0.0514721,37.6456042
+2023-12-12,87-9960506,Female,Lemon Sorbet,Food - Frozen Desserts,20.2459826794,4.99,visa,,Kenya,-0.5388381,
+2024-07-27,54-1514463,Female,Pet Travel Bowl,Pets,18.5590032166,10.99,americanexpress,,Kenya,-3.2191864,
+2024-01-20,68-6674243,Male,Coconut Curry Sauce,Food - Sauces,1.3183069847,3.89,,,Kenya,-0.0917016,
+2024-01-11,08-1574064,Female,High-Quality Yoga Block,Fitness,3.4202418224,12.99,instapayment,,Kenya,0.0351644,36.3642919
+2025-07-23,07-1015915,Female,Oven Mitts with Pocket,Kitchen,4.7859272971,19.99,,,Kenya,-0.1634664,
+2025-08-13,68-4770950,Female,Couscous,Food - Grains,6.6124939118,2.49,,,Kenya,,
+2025-10-12,30-5880732,Female,Golf Polo Shirt,Clothing - Tops,15.5650489083,39.99,,,Kenya,0.5142775,
+2025-01-05,63-3738394,Male,Balsamic Salad Dressing,Food - Deli,19.1214995474,2.99,instapayment,,Kenya,0.2827307,
+2025-09-22,39-8747525,Female,Almond Flour Pizza Crust,Food - Frozen Foods,14.002546681,7.99,,,Kenya,,37.9943453
+2024-04-22,10-4023376,Female,Smartphone Car Mount with Wireless Charging,Automotive,8.4389568395,39.99,instapayment,,Kenya,,37.5833061
+2024-11-05,61-4141038,Male,Golf Polo Shirt,Clothing - Tops,1.1063972489,39.99,mastercard,,Kenya,,36.9785033
+2025-04-24,26-5348206,Male,Pasta Sauce Mix,Food - Sauces,8.144635969,1.29,bankcard,,Kenya,,37.0722303
+2024-08-03,45-8881099,Female,Basil-infused Olive Oil,Food - Cooking Oil,0.713917269,6.99,visa,,Kenya,,34.4752715
+2025-02-05,52-0606213,Female,Customizable Name Puzzle,Toys,10.4617299497,29.99,visa,,Kenya,,
+2024-05-24,22-6760748,Male,Smartphone Projector Kit,Electronics,16.773655562,24.99,visa,,Kenya,,
+2025-07-19,40-9212009,Male,Sturdy Bookends,Office,15.06086171,22.99,bankcard,,Kenya,0.5695252,34.5583766
+2024-08-29,08-1604398,Male,Suede Ankle Booties,Clothing - Footwear,1.2266501991,79.99,visa,,Kenya,,
+2024-03-24,48-1422350,Female,Cranberry Almond Cookies,Food - Bakery,0.9704805905,4.29,mastercard,,Kenya,0.202957,35.0978385
+2025-06-29,17-0719841,Female,Italian Herb Balsamic Marinade,Food - Condiments,0.7546942538,3.99,,,Kenya,-1.3938636,
+2024-08-21,64-2274695,Female,Collapsible Water Bottle,,19.4127406414,12.99,americanexpress,,Kenya,-0.677334,34.779603
+2025-10-07,17-7170985,Female,Portable Camping Shower,Outdoor,11.7634883458,39.99,bankcard,,Kenya,,37.2784835
+2024-10-01,97-6108010,Female,Mint Chocolate Chip Ice Cream,Food - Frozen Desserts,6.7147944109,4.99,,,Kenya,,
+2025-02-09,37-0191117,Male,Coconut Macaroons,Food - Confectionery,17.4752045454,4.99,,,Kenya,-1.7864953,37.6311071
+2024-05-12,88-0129052,Male,Classic Bagels,Food - Bakery,3.5161822212,2.99,,,Kenya,,
+2023-11-12,66-8265033,Female,Buffalo Chicken Dip,Food - Dips,1.3014563531,5.99,americanexpress,,Kenya,-2.2695575,40.9006408
+2024-12-17,51-6431662,Female,Vegetable Quinoa Bowl,Food - Frozen Meals,25.0929463529,5.99,,,Kenya,,35.743418
+2025-09-15,52-2314836,Female,Protein Bar Variety Pack,Food - Snacks,2.9786449176,12.99,,,Kenya,-0.4532293,39.6460988
+2024-08-29,35-9454548,Male,Adjustable Garden Rake,Garden,17.7514993248,22.99,visa,,Kenya,0.2827307,34.7518631
+2024-03-23,72-5418173,Male,Chicken Parmesan Dinner Kit,Food - Frozen Meals,9.3853434349,14.99,,,Kenya,,
+2025-10-07,55-6308342,Female,Herbal Tea Set,Food,0.6308772473,19.99,instapayment,,Kenya,1.2481932,35.1103736
+2024-04-06,95-0476158,Male,Pumpkin Spice Cookies,Food - Bakery,20.5676097933,3.29,visa,,Kenya,0.053037,35.729768
+2025-09-17,84-9156830,Female,Fruit Medley Juice,Food - Beverages,11.0942346039,3.49,bankcard,,Kenya,0.2827307,34.7518631
+2025-09-16,50-6475000,Male,Balsamic Salad Dressing,Food - Deli,18.8074309318,2.99,mastercard,,Kenya,,36.8219462
+2025-04-07,36-3919183,Female,Fitness Balance Ball,Fitness,2.305496693,24.99,bankcard,,Kenya,,35.743418
+2025-07-29,35-6130551,Female,Organic Chia Seeds,Food - Health Foods,36.3363918962,7.99,americanexpress,,Kenya,-3.5106508,
+2025-06-17,79-4675128,Male,Lemon Dill Salmon,Food - Seafood,2.3931243544,9.99,instapayment,,Kenya,,
+2024-10-15,88-4992124,Male,Dishwasher Safe Cutting Board,,20.0603335122,22.99,americanexpress,,Kenya,,
+2025-05-25,65-9631488,Female,Portable Refrigerator Freezer,,1.9147747841,299.99,,,Kenya,,37.9943453
+2025-05-29,05-4930574,Female,Banana Peanut Butter Smoothie,Food - Frozen Foods,0.2268181637,5.49,mastercard,,Kenya,-1.1748105,36.8304102
+2024-01-13,14-0198367,Male,Collapsible Water Bottle,Fitness,28.9763152925,12.99,mastercard,,Kenya,,36.8304102
+2024-11-29,43-2328089,Male,Slingback Sandals,Clothing - Footwear,0.414934812,29.99,instapayment,,Kenya,0.4607691,
+2024-08-29,37-6358766,Male,Stylish Wide-Leg Trousers,Clothing - Bottoms,4.1444345904,59.99,visa,,Kenya,-1.7864953,37.6311071
+2025-02-20,63-9088372,Male,Body Pillow Case,Home,12.5267938158,14.99,bankcard,,Kenya,0.4607691,34.1114621
+2025-10-05,90-0318189,Male,Gardening Gloves,Garden,4.4488262419,15.99,,,Kenya,,
+2025-03-10,92-4424170,Male,Utility Cargo Pants,Clothing - Pants,8.1210067243,54.99,visa,,Kenya,,37.0722303
+2025-04-30,28-5571562,Male,Mediterranean Couscous Salad,Food - Salads,2.3564553111,5.49,,,Kenya,-2.0980751,36.7819505
+2024-03-14,18-8122576,Female,Handheld Vacuum,Home Appliances,16.5347171625,79.99,instapayment,,Kenya,,
+2024-05-30,76-1912547,Male,Thyme,Food - Fresh Produce,1.6682561947,2.49,instapayment,,Kenya,0.355636,37.5833061
+2025-06-24,94-0738738,Male,Whole Wheat Pasta,Food - Grains,6.9763628393,2.49,bankcard,,Kenya,,35.286286
+2024-11-28,21-3573696,Male,Digital Photo Frame,,12.2821102032,79.99,mastercard,,Kenya,,
+2025-10-02,00-4480521,Female,Vegetarian Pizza,,0.1448946062,5.49,,,Kenya,,
+2025-01-09,96-9612273,Male,Pet Travel Carrier,Pets,24.5349465877,39.99,mastercard,,Kenya,-0.0998238,34.2747004
+2025-10-17,,Female,Honey Mustard Chicken Breasts,Food - Meat,19.0086857099,8.99,,,Kenya,3.1155165,35.6040785
+2024-02-29,21-4251781,Female,Sesame Noodles,Food - Grab-and-Go,3.5841868003,5.99,americanexpress,,Kenya,,39.9093269
+2023-11-06,38-6986659,Male,Portable Air Compressor,Automotive,3.2298447071,44.99,mastercard,,Kenya,-1.7864953,37.6311071
+2024-06-12,34-9930406,Female,Pasta (Fusilli),Food - Pasta,1.9217267621,1.79,visa,,Kenya,,
+2024-05-01,31-2165829,Male,Portable Phone Mug Holder,Automotive,5.5089563521,14.99,,,Kenya,,
+2024-12-09,51-1862155,Female,Outdoor Mosquito Repellent Lantern,Outdoor,0.5867698642,34.99,bankcard,,Kenya,-0.7171778,36.4310251
+2024-02-25,18-1409174,Male,Organic Almond Flour,Food - Baking,1.2278789668,6.99,,,Kenya,-2.0980751,36.7819505
+2025-05-13,83-9349444,Female,Bamboo Utensil Holder,Kitchen,16.374960937,14.99,visa,,Kenya,,35.6040785
+2025-05-28,68-8098879,Female,Pet Grooming Scissors,Pets,4.1818007567,16.99,visa,,Kenya,,
+2025-04-08,35-3815347,Female,,Food - Baking,20.6985386651,2.49,,,Kenya,,
+2025-07-25,01-9185057,Female,Frozen Mixed Vegetables,Food - Frozen,1.5494887023,1.99,americanexpress,,Kenya,,
+2025-06-03,88-1593003,Female,Tuscan Bean Soup,Food - Canned Goods,15.7414214834,2.49,visa,,Kenya,-0.677334,34.779603
+2025-04-01,77-9042214,Female,Spaghetti and Meatball Dinner Kit,Food - Meal Kits,3.1139800571,7.99,bankcard,,Kenya,-0.4993281,
+2024-09-28,97-2356377,Female,Almond Quinoa Salad,Food - Salads,11.2277084818,5.99,bankcard,,Kenya,1.2481932,35.1103736
+2025-07-14,,Female,,,1.917349562,24.99,mastercard,,Kenya,,
+2025-03-17,02-9913211,Male,Fitness Mat,Fitness,0.0212547226,49.99,bankcard,,Kenya,0.393611,34.305278
+2025-08-24,02-0749099,Female,Art Supplies Organizer,Art Supplies,8.3105365303,18.99,mastercard,,Kenya,,39.9093269
+2024-04-17,45-8521533,Male,Sporty Slide Sandals,Clothing - Footwear,7.1999803074,24.99,mastercard,,Kenya,0.490107,
+2025-01-21,92-5076141,Male,Adjustable Dumbbells,Fitness,5.6753275657,249.99,bankcard,,Kenya,,34.305278
+2025-06-22,,Female,Multi-Purpose Scissors,,2.3810598858,8.99,,,Kenya,,
+2024-09-02,36-2683942,Female,Handmade Leather Wallet,Accessories,3.8434696376,49.99,mastercard,,Kenya,-0.4277809,
+2023-11-01,93-1939716,Male,Roasted Garlic,Food - Condiments,5.9041879898,4.29,,,Kenya,-2.0980751,36.7819505
+2024-01-31,05-1460270,Female,Dark Chocolate Tart,Food - Desserts,22.6411300772,6.29,,,Kenya,0.202957,35.0978385
+2025-08-22,77-1138315,Male,Cucumber Lime Sparkling Water,Food - Beverages,2.3678160859,1.49,americanexpress,,Kenya,-1.3750813,
+2024-09-28,51-4438635,Female,Memory Card,Storage,3.111881312,15.99,americanexpress,,Kenya,-0.0998238,34.2747004
+2025-06-22,16-4161094,Female,Low-Fat Cottage Cheese,Food - Dairy,7.2631340228,2.99,,,Kenya,-0.7771138,
+2024-06-15,90-5264247,Female,Maple Cinnamon Granola Bars,Food - Snacks,4.4209170549,3.49,mastercard,,Kenya,,39.6682065
+2025-08-14,37-0001369,Female,Mini Air Hockey Table,Toys,37.4327761804,39.99,visa,,Kenya,0.053037,
+2023-10-28,85-1225136,Female,Travel Document Organizer,Travel,19.0088284256,15.99,bankcard,,Kenya,0.6812449,34.4212109
+2025-01-19,45-5545996,Female,Cranberry Almond Cookies,Food - Bakery,1.5299263742,4.29,americanexpress,,Kenya,0.5695252,
+2025-10-14,99-3959926,Male,Nail Polish Set,Beauty,3.0782317739,25.0,visa,,Kenya,-1.2920659,
+2025-01-25,86-6034567,Male,Smartphone Photography Ring Light,Photography,10.2194956771,29.99,bankcard,,Kenya,3.9356389,
+2025-09-20,65-2156208,Male,Almond Flour Tortillas,Food - Baking & Cooking,0.0241559229,4.99,,,Kenya,0.355636,
+2025-09-14,,Male,Sous Vide Cooker,Kitchen,9.061398924,79.99,visa,,Kenya,-1.3938636,36.7442377
+2024-10-10,51-0391292,Female,Sweet Potato & Kale Hash,Food - Prepared Foods,3.5074188417,5.49,visa,,Kenya,-2.0980751,
+2025-02-05,60-9864475,Male,Bamboo Cutting Board,Kitchen,15.5547365777,22.0,,,Kenya,,
+2025-09-11,85-1897355,Male,Vegetable Fried Rice,Food - Frozen Foods,3.939165657,4.99,visa,,Kenya,0.355636,
+2025-03-25,,Male,Classic Caesar Dressing,Food - Condiments,0.6026169154,3.49,,,Kenya,1.3081095,35.2066038
+2024-09-29,29-8831831,Male,Warm Knit Beanie,Clothing - Accessories,18.3219833388,19.99,,,Kenya,2.3354966,
+2025-06-27,56-7043350,Female,Peach Slices in Syrup,Food - Canned Goods,7.3432656953,2.59,visa,,Kenya,,37.9943453
+2025-04-22,49-9956098,Female,Honey Ginger Tea,,0.188190606,2.99,bankcard,,Kenya,-3.5106508,39.9093269
+2024-07-19,51-7228446,Female,Classic Pesto Sauce,Food - Sauces,9.0563900901,4.29,,,Kenya,-2.2695575,
+2025-02-28,50-9251653,Male,Ramen Noodles,Food - Pasta,10.1522571452,0.99,bankcard,,Kenya,,36.9785033
+2024-10-24,28-3392557,Male,Kale & Quinoa Salad Mix,Food - Salads,2.5592527087,4.49,bankcard,,Kenya,-1.5176837,37.2634146
+2025-04-22,23-1802007,Female,Pasta Primavera Kit,Food - Meal Kits,17.9854190298,7.49,,,Kenya,-0.1634664,35.5931397
+2023-12-30,82-3720026,Female,Multi-Purpose Marine Rope,,4.6710381114,19.99,instapayment,,Kenya,,35.2066038
+2024-10-16,02-1558285,Female,Thai Peanut Noodles,Food - Pasta,8.6934149224,4.99,mastercard,,Kenya,0.2827307,
+2025-06-16,49-5742559,Female,Kitchen Knife Sharpening System,,5.9392372075,39.99,,,Kenya,1.2481932,
+2025-09-02,90-4036001,Male,Ultraviolet Phone Sanitizer,Health,27.1260915576,39.99,,,Kenya,,
+2024-10-12,70-7296684,Male,Hibiscus Herbal Tea,Food - Beverages,18.4576409459,3.29,bankcard,,Kenya,,34.2747004
+2023-10-28,75-9262773,Male,DIY Candle Making Kit,Crafts,17.4876664466,22.99,americanexpress,,Kenya,-1.7775816,37.1097748
+2024-03-18,25-7890933,Female,Children's Art Set,Toys,4.6907000159,34.99,bankcard,,Kenya,3.9356389,
+2025-06-05,13-9117221,Female,Pumpkin Spice Muffins,Food - Bakery,18.0933670911,3.99,americanexpress,,Kenya,,
+2025-02-09,99-5194095,Male,,Food - Condiments,12.637246261,2.79,,,Kenya,,37.0833753
+2024-12-23,98-3388123,Female,Induction Cooktop,,10.7485194296,89.99,instapayment,,Kenya,,
+2024-12-20,51-1903224,Male,Hot Salsa,Food - Dips,9.3134827061,2.29,instapayment,,Kenya,,
+2024-01-16,20-8098478,Male,Camping Chair with Cooler,Outdoor,10.3258824588,49.99,instapayment,,Kenya,,36.9785033
+2024-01-21,93-8560002,Female,Bamboo Memory Foam Pillow,Home,2.892642807,34.99,mastercard,,Kenya,-0.5350427,
+2023-12-16,43-4882095,Male,Pet Training Clicker,Pets,18.6775073158,5.99,instapayment,,Kenya,-0.4277809,
+2025-03-09,36-3748329,Male,Induction Cooktop,Kitchen,11.4474873427,89.99,americanexpress,,Kenya,,
+2023-12-08,50-4222237,Female,Coconut Chia Seed Pudding,Food - Snacks,0.1050125853,2.99,,,Kenya,-2.0980751,36.7819505
+2024-04-13,75-3168022,Male,Sweet Chili Dipping Sauce,Food - Condiments,13.3739812423,2.99,bankcard,,Kenya,0.6812449,34.4212109
+2024-04-20,10-3675620,Female,Ski Goggles,Sports,32.9981245247,49.99,,,Kenya,,
+2025-01-27,13-5431760,Female,Cordless Water Flosser,Health,0.9431504384,49.99,instapayment,,Kenya,,34.4212109
+2025-01-20,75-6085192,Male,Mobile Workbench,Tools,1.5602773187,199.99,instapayment,,Kenya,,
+2024-06-02,70-0447321,Male,Video Camera,Electronics,6.47658416,199.0,americanexpress,,Kenya,0.355636,37.5833061
+2025-10-20,86-5262535,Female,Customizable Photo Calendar,Books,14.0568933347,19.99,,,Kenya,,
+2025-06-29,51-5360860,Male,Personalized Keychain,Accessories,16.7260680904,10.99,,,Kenya,3.1155165,35.6040785
+2024-09-26,,Female,Kids' Activity Book,Books,4.1686106868,14.99,instapayment,,Kenya,,
+2024-11-04,73-2987339,Male,Kitchen Scale,Kitchen,2.4871831588,19.99,instapayment,,Kenya,-0.7771138,34.9458389
+2024-11-01,70-4850491,Male,Roasted Red Pepper Dip,Food - Snacks,2.2549640122,3.29,bankcard,,Kenya,-0.582624,
+2024-06-01,56-2950231,Male,Mini Air Purifier,Health,1.3657635822,49.99,americanexpress,,Kenya,,34.4752715
+2023-11-25,70-5580700,Female,Caramelized Onion Dip Mix,Food - Snacks,1.7822469528,2.29,americanexpress,,Kenya,-1.7864953,37.6311071
+2025-08-10,88-1119827,Female,Fresh Cilantro,Food - Produce,10.7341833884,1.49,instapayment,,Kenya,0.5992059,
+2024-03-16,83-1818618,Male,Floral Wrap Top,Clothing - Tops,12.6911153744,49.99,,,Kenya,,36.8304102
+2025-01-09,75-3777095,Male,Gardening Tools Set,Garden,3.1587182267,45.0,bankcard,,Kenya,-0.5388381,37.4596409
+2023-10-28,02-9892517,Female,Cucumber Relish,Food - Condiments,9.4203337215,3.39,mastercard,,Kenya,-0.1566093,35.1983598
+2023-11-28,97-1225708,Female,Siphon Coffee Maker,Kitchen,22.1505516415,49.99,,,Kenya,,
+2023-11-01,95-2061779,Male,Body Wash,Beauty,5.326754436,12.99,instapayment,,Kenya,-2.2695575,
+2024-09-27,30-8612844,Female,Electric Blanket,Home,22.9623911528,59.99,visa,,Kenya,,36.8304102
+2023-12-30,37-6817955,Female,Pet Food Storage Container,Pets,15.5841499449,24.99,visa,,Kenya,1.2481932,35.1103736
+2024-09-24,40-8749822,Male,Screen Cleaning Kit,Electronics,4.0545274058,15.99,visa,,Kenya,,
+2024-06-08,70-7737329,Female,Surimi Crab Sticks,Food - Seafood,14.4210705964,4.19,mastercard,,Kenya,3.1155165,
+2025-02-26,27-1913696,Female,Dark Chocolate Raisins,Food - Snacks,26.3340406486,3.49,mastercard,,Kenya,-0.582624,35.1901151
+2023-11-14,27-9155102,Female,Kids' Gardening Kit,Toys,3.0582790896,24.99,visa,,Kenya,,
+2025-09-26,28-2996048,Female,Frozen Berry Blend,Food - Frozen Foods,19.4152986718,4.99,,,Kenya,-2.2695575,40.9006408
+2024-05-29,27-3528757,Male,Maple Bacon Popcorn,Food - Snacks,3.4176126065,3.49,mastercard,,Kenya,-0.4993281,37.2784835
+2024-03-22,72-9164094,Male,Classic Pumps,Clothing - Footwear,0.7873581591,64.99,visa,,Kenya,,
+2024-06-17,40-9421278,Male,Surimi Crab Sticks,Food - Seafood,2.883824754,4.19,mastercard,,Kenya,,36.8304102
+2024-05-28,14-8540347,Female,Kale Salad Kit,Food - Salads,9.1279812884,4.99,bankcard,,Kenya,,39.0528407
+2024-03-06,38-7787538,Male,Tea Set with Infuser,Kitchen,8.7514251042,34.99,mastercard,,Kenya,,34.4752715
+2025-10-08,76-6576590,Female,Portable Hand Warmer,Accessories,28.3640702801,24.99,visa,,Kenya,,
+2023-12-29,93-5948573,Female,Organic Coconut Sugar,Food - Baking Goods,5.7014731698,4.19,instapayment,,Kenya,,35.6040785
+2024-03-19,73-2595984,Female,Lightweight Workout Tank,Clothing - Activewear,4.6022274523,29.99,,,Kenya,-0.7134403,
+2025-04-19,68-9331356,Female,Chocolate Mint Protein Shake,Food - Beverages,21.5109240912,3.99,bankcard,,Kenya,-0.0998238,34.2747004
+2025-02-24,92-3558722,Male,Over-the-Door Hooks,Home,0.417737521,12.99,instapayment,,Kenya,,34.7679568
+2024-02-12,11-5705655,Female,Compressed Towel Tablets,Travel,40.1186676904,12.99,bankcard,,Kenya,-1.7864953,37.6311071
+2024-05-31,44-6109321,Male,Classic Bagels,Food - Bakery,16.8922240181,2.99,mastercard,,Kenya,,
+2024-02-01,23-7591044,Female,Stainless Steel Water Pitcher,Kitchen,11.7403322928,39.99,,,Kenya,,
+2024-07-31,46-4504575,Male,Sriracha Honey Glaze,Food - Sauces,28.8793802756,3.59,bankcard,,Kenya,-3.3973104,
+2025-01-28,29-7953474,Male,Electric Nail File Kit,Beauty,0.8796076513,34.99,instapayment,,Kenya,0.355636,
+2025-07-07,57-8409354,Male,Peanut Butter Filled Pretzels,Food - Snacks,9.7042035923,3.99,instapayment,,Kenya,0.053037,35.729768
+2024-07-08,25-6822410,Male,Balsamic Salad Dressing,Food - Deli,0.6740258824,2.99,,,Kenya,,
+2024-09-03,39-2871111,Male,Personalized Cutting Board,,17.1807139484,34.99,instapayment,,Kenya,0.5992059,
+2025-07-16,99-6363089,Female,Fitness Balance Ball,Fitness,17.3436753002,24.99,visa,,Kenya,,36.8304102
+2024-11-04,12-0187109,Male,Creamy Garlic Mashed Potatoes,,8.9268596338,3.99,,,Kenya,-0.677334,
+2024-01-16,67-5271005,Male,Mayonnaise,Food - Condiments,13.0445878194,3.29,bankcard,,Kenya,,39.3180297
+2024-11-10,73-0988305,Female,Sweet Corn Fritters,Food - Frozen,6.7444046148,4.49,visa,,Kenya,,37.0833753
+2024-12-13,77-3927030,Female,Leather Notebook Cover,Office,0.4440611297,29.99,,,Kenya,0.202957,
+2024-06-27,65-5457012,Female,Pumpkin Ice Cream,Food - Frozen Foods,10.3025960641,4.99,,,Kenya,-0.4532293,
+2025-07-06,73-5584463,Male,LED Table Lamp,,1.2587357636,29.99,,,Kenya,,34.2747004
+2024-12-18,21-2762860,Male,Portable Hammock Swing,Outdoor,19.1842989188,59.99,,,Kenya,,36.8458837
+2025-10-15,24-1076510,Female,Travel Luggage Scale,Travel,13.8527449029,14.99,,,Kenya,-1.7864953,
+2024-06-09,28-6729042,Male,Mediterranean Chickpea Bowl,Food - Prepared Foods,23.6052088326,6.49,bankcard,,Kenya,,
+2024-10-18,69-7184996,Female,Compact Refrigerator,Home Appliances,1.9669228616,199.99,americanexpress,,Kenya,,
+2025-03-20,47-6348779,Male,Buffalo Stilton Cheese,Food - Cheese,17.2297690334,8.99,americanexpress,,Kenya,-0.582624,
+2024-11-05,41-2685424,Female,Asian Salad Mix,Food - Produce,6.3897048696,3.99,americanexpress,,Kenya,-0.272699,
+2024-08-05,22-8659623,Female,Vegetarian Sausage Links,,2.7410810368,5.89,visa,,Kenya,,35.0023048
+2025-04-02,43-9414924,Female,Fettuccine Alfredo Dinner Kit,Food - Prepared Meals,1.276427546,5.49,mastercard,,Kenya,-2.2695575,40.9006408
+2025-02-16,21-2432812,Female,Portable Solar Camp Shower,Outdoor,6.5557911226,29.99,,,Kenya,,
+2024-03-18,44-6257225,Male,Chocolate Hazelnut Spread,Food - Spreads,31.8845189383,5.99,,,Kenya,,34.2747004
+2024-11-04,57-5811664,Male,Teriyaki Chicken Wings,Food - Frozen Food,0.9158002582,10.99,americanexpress,,Kenya,,35.6040785
+2025-05-22,92-6447374,Female,Travel Organizer,Travel,4.8601955035,22.99,bankcard,,Kenya,-0.3030988,
+2024-09-24,29-7953717,Female,DIY Organic Gardening Kit,Garden,2.0572282793,39.99,bankcard,,Kenya,,
+2024-11-26,47-3571572,Male,Ginger Turmeric Latte Mix,Food - Beverages,8.0399128949,5.29,mastercard,,Kenya,-1.0706976,34.4752715
+2023-10-31,82-1383379,Male,Quinoa Salad,Food - Prepared Foods,3.2494355659,5.99,mastercard,,Kenya,0.0074415,37.0722303
+2025-02-23,02-6089792,Male,Fall-Themed Table Runner,Home,4.5313104469,19.99,,,Kenya,,
+2024-12-05,66-8673881,Male,Camping Tent,Outdoor,5.6326158598,79.99,bankcard,,Kenya,-0.272699,36.3775152
+2025-04-20,60-7311616,Male,Travel Document Organizer,Travel,15.8225194006,15.99,americanexpress,,Kenya,1.0784436,
+2024-02-29,97-8022569,Male,Asian Stir-Fry Kit,Food - Frozen Meals,0.0973415906,5.49,americanexpress,,Kenya,,37.6311071
+2025-10-19,11-4713424,Male,Portable Pet Stroller,Pets,8.1870914557,89.99,,,Kenya,0.490107,
+2023-12-17,75-5251134,Male,Watercolor Set,Art Supplies,7.7651635967,19.99,visa,,Kenya,-0.5388381,
+2023-11-06,76-0522867,Female,Set of Silicone Baking Molds,Kitchen,2.0132304806,15.99,bankcard,,Kenya,1.3081095,
+2023-12-20,23-2668805,Female,Pet Safety Harness,Pets,2.9747505157,24.99,visa,,Kenya,0.393611,34.305278
+2025-07-24,48-7798906,Male,Portable Laptop Table,Office,2.672312858,39.99,mastercard,,Kenya,,
+2024-03-18,28-7020298,Female,Outdoor Fire Pit,Outdoor,13.6731261326,149.99,instapayment,,Kenya,,35.2697802
+2025-07-01,73-6630558,Male,Raisin Cinnamon Granola,Food - Cereals,10.7251384954,3.79,bankcard,,Kenya,0.5695252,34.5583766
+2025-01-16,89-6699311,Male,Natural Soy Candles,Home,11.6842853348,19.99,,,Kenya,,
+2023-11-06,28-7818020,Male,Grilled Vegetable Medley,Food - Vegetables,2.4207235639,4.49,mastercard,,Kenya,-0.3030988,36.080026
+2023-10-28,16-7017691,Female,Satin Slip Dress,Clothing - Dresses,1.6028486241,59.99,,,Kenya,,
+2025-01-10,73-5146714,Female,Brownie Bites,Food - Baked Goods,2.7951692891,4.99,,,Kenya,-0.1634664,
+2025-08-18,04-6191926,Male,Travel Pillow,Travel,2.9919463303,22.99,visa,,Kenya,,39.9093269
+2024-02-29,04-5646636,Male,Tandoori Chicken Skewers,Food - Meat,6.9560493089,7.99,instapayment,,Kenya,-0.272699,
+2025-01-10,42-5326813,Female,Chocolate Covered Pretzels,Food - Snacks,1.1772226828,3.29,instapayment,,Kenya,0.490107,
+2023-11-15,30-4235684,Female,Wrap Front Midi Skirt,Clothing - Bottoms,18.3447775209,44.99,americanexpress,,Kenya,,37.4596409
+2025-01-31,29-5608239,Female,Brussels Sprouts,Food - Produce,14.1819101744,3.49,mastercard,,Kenya,-0.7134403,37.0373502
+2025-01-18,84-1417862,Female,Chocolate Mint Cookies,Food - Baking,4.2277031409,2.29,americanexpress,,Kenya,,37.9943453
+2025-05-02,24-3606714,Male,Ginger Turmeric Latte Mix,Food - Beverages,6.5514414342,5.29,bankcard,,Kenya,0.355636,
+2023-11-03,,Male,Peanut Butter Filled Pretzels,Food - Snacks,3.9941031336,3.99,americanexpress,,Kenya,,
+2024-10-19,53-0383177,Female,Sea Salt Caramel Popcorn,Food - Snacks,41.5123686373,3.99,bankcard,,Kenya,-1.1939843,
+2025-10-06,76-5074960,Female,Trendy Bomber Jacket,Clothing - Outerwear,4.0316669251,69.99,mastercard,,Kenya,-3.5106508,39.9093269
+2025-05-10,67-6657491,Female,Cinnamon Roll Dough,Food - Bakery,17.3435579865,4.49,,,Kenya,-1.4577245,36.9785033
+2024-01-10,02-6761806,Male,Car Emergency Kit,Automotive,0.8811294168,49.99,,,Kenya,,34.1114621
+2024-05-26,29-0817317,Female,Trackpad for Laptop,Accessories,0.9058010332,49.99,,,Kenya,,
+2025-06-07,23-5836736,Male,Mini Indoor Hydroponic Garden,,17.3396068883,59.99,bankcard,,Kenya,-2.2695575,40.9006408
+2025-05-09,35-1747363,Male,Classic Leather Wallet,Clothing - Accessories,65.6932744723,34.99,,,Kenya,,
+2024-10-05,87-3691306,Male,Oven Mitts with Pocket,Kitchen,8.4268199004,19.99,,,Kenya,0.355636,
+2024-06-09,01-4166617,Male,Dark Chocolate Covered Pretzels,Food - Snacks,1.1951349959,3.99,mastercard,,Kenya,-0.0998238,
+2025-07-30,41-3855469,Male,Organic Vanilla Bean Ice Cream,Food - Frozen Desserts,4.4826617877,5.99,,,Kenya,-3.2191864,
+2024-10-16,95-3703315,Male,Maple Cinnamon Almonds,Food - Nuts,0.970971242,4.29,instapayment,,Kenya,1.3081095,
+2023-12-06,17-5084654,Female,Almond Joy Bars,Food - Confectionery,6.7017789248,1.29,visa,,Kenya,1.7488388,40.058633
+2025-06-18,51-4918458,Female,Compact Folding Table,Outdoor,20.3832260547,49.99,americanexpress,,Kenya,,34.4918988
+2024-03-14,,Male,Chocolate Chip Cookie Mix,Food - Baking,9.3009179324,2.49,visa,,Kenya,1.0931431,36.7018311
+2025-05-25,69-4995030,Male,Honey Sesame Chicken,Food - Frozen Food,20.1924993124,8.99,bankcard,,Kenya,,
+2025-02-22,75-0573714,Male,Black Bean & Corn Salad,Food - Salads,0.5536460493,3.99,americanexpress,,Kenya,-4.0434771,
+2025-04-01,29-5504509,Male,,Furniture,0.2874782819,149.99,bankcard,,Kenya,,
+2024-05-02,23-5090558,Male,Salsa Verde,Food - Condiments,13.378894009,3.49,mastercard,,Kenya,,35.1983598
+2025-06-12,96-1391218,Male,Gingerbread House Kit,Food - Baking,2.5912094281,6.99,instapayment,,Kenya,,
+2023-11-17,34-0055600,Female,Children's Gardening Set,Toys,5.6002205778,19.99,instapayment,,Kenya,,
+2024-11-16,82-7422447,Male,Weighted Blanket for Adults,Health,4.3336163162,59.99,mastercard,,Kenya,,
+2025-02-09,40-4063676,Male,Organic Tomato Soup,Food - Canned Goods,20.2618995275,3.79,,,Kenya,1.7488388,40.058633
+2023-12-03,47-9180984,Male,Computer Monitor Stand,Office,38.269717858,29.99,americanexpress,,Kenya,,
+2024-02-27,56-9107755,Male,Cinnamon Spiced Almonds,Food - Snacks,15.4027013431,5.99,,,Kenya,,
+2025-04-06,74-3919367,Male,Instant Pot,Kitchen,1.2312949801,89.99,visa,,Kenya,,35.7323709
+2024-01-03,02-4480377,Male,Zesty Garlic Marinade,Food - Condiments,5.5466400526,4.49,americanexpress,,Kenya,-1.1748105,
+2024-02-16,,Male,Organic Whole Wheat Flour,Food - Baking Goods,0.186509943,2.99,bankcard,,Kenya,,37.0373502
+2024-12-16,78-4780145,Female,Infrared Space Heater,Home Appliances,14.9766037217,99.99,,,Kenya,,34.4752715
+2025-08-01,71-6573494,Male,Leek and Potato Soup,Food - Soups,8.0370012825,3.29,,,Kenya,,
+2024-02-26,53-5583896,Female,Honey BBQ Ribs,Food - Meat,7.7890563574,12.99,americanexpress,,Kenya,,36.3775152
+2024-04-11,13-5740675,Male,Cold Brew Coffee Concentrate,Food - Beverages,0.4702353894,7.99,,,Kenya,-0.2488358,
+2024-03-17,39-5701580,Male,Cinnamon Sugar Popcorn,Food - Snacks,5.0666613127,2.89,,,Kenya,3.9356389,41.8551162
+2025-06-14,10-8537351,Male,Pocket Blanket,Outdoor,6.4303995541,24.99,,,Kenya,,
+2024-07-29,39-5848233,Female,Flavored Popcorn Mix,Food - Snacks,2.251371133,2.99,visa,,Kenya,-1.3750813,
+2025-08-20,,Male,Grilled Veggie Burgers,Food - Meat Alternatives,5.7137427673,6.29,mastercard,,Kenya,0.355636,
+2024-03-20,18-5595421,Female,Artisan Cornbread Mix,Food - Baking,9.1474202453,2.49,americanexpress,,Kenya,-0.4532293,
+2024-05-28,79-9723958,Female,Collapsible Pet Dog Bowl,Pets,0.1697815959,9.99,instapayment,,Kenya,,34.5583766
+2024-01-17,51-5244781,Female,Stylish Wide-Leg Trousers,Clothing - Bottoms,9.1410077193,59.99,americanexpress,,Kenya,-0.0998238,34.2747004
+2024-01-13,44-7234725,Female,Vegetable Spring Rolls,Food - Frozen Foods,3.8297237985,6.49,,,Kenya,-1.0706976,34.4752715
+2024-08-24,37-3436620,Female,Hiking Water Bottle with Filter,Outdoor,2.1654417671,29.99,,,Kenya,-0.0917016,
+2023-12-31,07-2533673,Male,Car Vacuum Cleaner,Automotive,3.2776922449,39.99,,,Kenya,,39.9093269
+2024-03-30,03-5641526,Male,Chocolate Dipped Fruit,Food - Snacks,0.4413908531,5.99,instapayment,,Kenya,1.0931431,
+2025-05-28,95-9586483,Male,Ramen Noodle Soup Cups,Food - Prepared Meals,9.3070648608,1.29,bankcard,,Kenya,-0.4532293,39.6460988
+2025-09-26,63-8714938,Female,Organic Cucumber,Food - Vegetables,2.3373709081,1.29,instapayment,,Kenya,0.4607691,34.1114621
+2023-11-06,74-4659797,Female,Pumpkin Spice Latte Mix,,11.8693643696,3.29,instapayment,,Kenya,-3.5106508,39.9093269
+2024-10-25,50-5609250,Male,Smartphone UV Sanitizer,Health,3.5941124055,39.99,,,Kenya,0.5992059,34.779603
+2025-10-09,26-7301280,Female,Quality Chef Apron,,68.1165746231,19.99,instapayment,,Kenya,0.5992059,
+2024-06-13,42-5179857,Female,Pet Travel Bowl,Pets,8.2681281377,10.99,mastercard,,Kenya,-1.3750813,37.9952144
+2024-06-27,20-6120460,Female,Silicone Baking Molds,Kitchen,1.2086073538,15.99,visa,,Kenya,,
+2025-04-08,05-7619910,Male,Chickpea Pasta,Food - Pasta,0.3372021761,4.19,,,Kenya,,36.3775152
+2024-12-22,00-7144287,Female,Pumpkin Puree,,1.9327832426,2.99,,,Kenya,-0.4993281,37.2784835
+2024-02-25,62-5119104,Male,Chili Lime Shrimp,Food - Seafood,23.3556273415,8.99,,,Kenya,,35.729768
+2025-05-27,96-9392381,Male,Motorcycle Phone Mount,Automotive,1.2411870175,14.99,mastercard,,Kenya,0.4607691,34.1114621
+2025-02-03,00-1451322,Female,Portable Laptop Table,Office,7.6103157394,39.99,,,Kenya,,
+2025-06-25,96-7984796,Male,Wire Shelving Unit,Home,0.7180587093,69.99,,,Kenya,,36.3775152
+2024-03-27,38-4687099,Female,Camping Chair with Cooler,Outdoor,3.0778120443,49.99,,,Kenya,-1.7864953,37.6311071
+2025-01-04,84-3019938,Male,Ripped Boyfriend Jeans,Clothing - Bottoms,15.3818797206,54.99,mastercard,,Kenya,,35.0978385
+2025-06-04,11-3441671,Male,Magnetic Spice Containers,Kitchen,9.1910674699,24.99,instapayment,,Kenya,-4.1393386,39.3180297
+2024-07-29,74-4837769,Male,Smartphone Photography Ring Light,Photography,7.3979749937,29.99,mastercard,,Kenya,-1.7775816,37.1097748
+2024-08-05,54-2831503,Male,Heated Throw Blanket,Home,6.4848485731,49.99,,,Kenya,0.490107,
+2023-11-28,36-1269799,Female,Digital Voice Recorder,Electronics,1.6987840459,49.99,americanexpress,,Kenya,-0.4993281,
+2024-08-07,36-9413968,Female,Shower Curtain Hooks,Home,4.809889479,12.99,mastercard,,Kenya,,34.4212109
+2024-07-23,28-8467158,Male,Glass Water Bottle,Fitness,7.7170520144,25.99,americanexpress,,Kenya,-0.7171778,
+2024-08-25,69-6006784,Male,Couscous,Food - Grains,11.5121368076,2.49,visa,,Kenya,,37.4596409
+2024-06-23,,Male,Vegetable Lentil Soup,Food - Canned Goods,15.2756519142,3.49,mastercard,,Kenya,,36.3775152
+2025-09-01,52-0854776,Male,Wooden Toy Train Set,Toys,10.7728741332,29.99,mastercard,,Kenya,,
+2025-02-26,57-4179390,Female,Digital Drawing Tablet,Art Supplies,10.8921835938,79.99,bankcard,,Kenya,,35.2066038
+2024-10-04,49-0302383,Female,Caramel Apple Taffy,Food - Confectionery,5.4781665643,1.99,bankcard,,Kenya,0.2827307,
+2025-07-01,23-5992190,Female,Sous Vide Cooker,Kitchen,0.5812210918,79.99,visa,,Kenya,-1.2920659,
+2024-10-16,73-2244629,Female,Vegan Taco Seasoning,Food - Spices,3.8117472198,2.49,,,Kenya,,
+2025-06-12,15-6830430,Female,Coffee Capsule Dispenser,Kitchen,33.8183137273,24.99,americanexpress,,Kenya,3.1155165,35.6040785
+2025-02-25,63-9630716,Female,Pesto Pasta Sauce,Food - Sauces,5.4002699987,3.99,instapayment,,Kenya,1.7488388,
+2025-09-14,61-9319387,Female,Miso Dressing,Food - Dressings,2.7745334019,3.49,visa,,Kenya,-1.5176837,37.2634146
+2024-10-03,04-6963274,Female,Rice Pudding,Food - Desserts,10.327454728,2.29,instapayment,,Kenya,,39.9093269
+2025-04-06,27-3760819,Male,LED Strip Lights Kit,Home,6.129808179,29.99,mastercard,,Kenya,,39.3180297
+2024-06-11,80-5974282,Female,Peach Mango Smoothie Mix,Food - Beverages,4.7591565052,5.99,mastercard,,Kenya,-3.5106508,39.9093269
+2024-05-10,99-7156641,Female,Beef Stew Meat,Food - Meat,10.0567032882,5.99,bankcard,,Kenya,,41.8551162
+2025-05-02,89-2458642,Male,Veggie Lovers Pizza,Food - Frozen Foods,0.5426017989,8.99,,,Kenya,0.636206,
+2025-07-01,42-1657350,Female,Mechanical Pencil Set,Office,4.2772013208,19.99,americanexpress,,Kenya,,39.9093269
+2025-07-22,61-1808471,Female,Pineapple Coconut Yogurt,Food - Dairy,7.8935253036,4.49,mastercard,,Kenya,,36.080026
+2025-02-20,29-0025280,Female,Slingback Sandals,Clothing - Footwear,6.1606548733,29.99,bankcard,,Kenya,,
+2025-09-02,74-3029655,Female,Whipped Cream Cheese,Food - Dairy,3.8300526677,2.99,instapayment,,Kenya,,40.529246
+2024-09-16,,Female,Apple Sauce,Food - Canned Goods,8.9915356767,2.19,visa,,Kenya,-0.5388381,37.4596409
+2025-01-08,48-4600120,Female,Handmade Wooden Utensil Set,Kitchen,3.6842952345,24.99,visa,,Kenya,-0.4993281,
+2024-06-22,50-0673616,Male,Spicy Italian Sausage,Food - Meat & Seafood,5.0601955484,4.99,americanexpress,,Kenya,-1.1748105,36.8304102
+2024-08-13,11-2151317,Female,Cabbage Slaw Mix,Food - Vegetables,12.0523992905,2.29,visa,,Kenya,,
+2025-07-02,95-1168014,Female,Garlic Butter Shrimp,Food - Seafood,15.0601855108,8.99,instapayment,,Kenya,,
+2025-06-02,,Male,Nutty Trail Mix,Food - Snacks,48.8456043996,4.29,mastercard,,Kenya,-0.3688967,35.286286
+2024-09-21,42-9755184,Female,Indian Curry Sauce,Food - Condiments,0.989133316,3.69,mastercard,,Kenya,,38.5559336
+2025-04-22,77-4187161,Female,Brussels Sprouts,Food - Produce,24.3057375726,3.49,,,Kenya,-0.5388381,37.4596409
+2024-10-28,37-8913862,Female,Canned Black Beans,Food - Canned Goods,5.3508684212,1.29,,,Kenya,-0.0998238,
+2025-07-31,93-1446648,Female,Travel Jewelry Case,Accessories,8.241904215,24.99,bankcard,,Kenya,-3.3973104,
+2024-07-03,75-3041626,Male,Air Purifier,Home,0.7766688523,129.99,,,Kenya,0.355636,
+2025-03-07,43-7636512,Female,Magnetic Screen Door,Outdoor,0.8777275665,24.99,instapayment,,Kenya,,
+2024-04-11,29-0603118,Female,Peanut Butter Protein Balls,Food - Snacks,4.1245270716,5.29,,,Kenya,-1.5176837,37.2634146
+2024-12-03,74-6738626,Male,Aeropress Coffee Maker,Kitchen,1.7076150596,29.99,visa,,Kenya,-0.582624,
+2024-11-14,96-1322835,Male,Antique Style Clock,Home,2.7368444762,39.99,,,Kenya,,
+2024-04-21,65-5236041,Male,Sweet Potato Chips,Food - Snacks,7.2134823052,2.99,,,Kenya,-0.7134403,37.0373502
+2024-12-01,91-0560472,Male,Collapsible Folding Chair,Outdoor,5.6006888107,29.99,,,Kenya,,34.4752715
+2024-09-19,00-1537918,Female,Ramen Noodle Soup Cups,Food - Prepared Meals,10.8752701197,1.29,instapayment,,Kenya,,34.2747004
+2024-08-30,53-4320569,Female,Thai Peanut Noodles,Food - Pasta,5.3031626651,4.99,visa,,Kenya,,
+2023-12-18,29-5242046,Male,Wireless HDMI Transmitter,Electronics,5.613392453,79.99,mastercard,,Kenya,,37.6311071
+2025-02-13,67-7350027,Male,Garden Kneeler and Seat,Garden,22.1121962149,39.99,instapayment,,Kenya,0.5142775,35.2697802
+2024-01-21,55-7251777,Female,Legging Pants,Clothing - Activewear,3.1573267021,34.99,americanexpress,,Kenya,,
+2024-02-25,75-9788815,Male,Safety Pin Dispenser,Office,15.8053824504,5.99,visa,,Kenya,,36.3775152
+2024-03-13,00-1769410,Male,Digital Alarm Clock,Home,1.4839408291,19.99,,,Kenya,-2.5265605,
+2025-01-15,44-2700784,Female,Portable Charger with Solar Panel,Electronics,6.5354609608,45.99,bankcard,,Kenya,-3.5106508,39.9093269
+2024-06-16,85-9263015,Female,Foot Massager,Health,16.0424797333,79.99,visa,,Kenya,-1.4577245,
+2025-03-09,90-5901549,Male,,Food - Meat,24.7820536063,8.99,,,Kenya,,35.5931397
+2025-05-27,73-4361881,Male,Rainbow Veggie Chips,Food - Snacks,3.3939782115,3.29,instapayment,,Kenya,-1.0706976,
+2025-05-18,74-6000961,Male,Electric Wine Opener,Kitchen,5.7538667266,29.99,,,Kenya,-0.5350427,
+2025-06-29,53-3644417,Female,Almond Butter Cups,,1.0065288905,3.29,bankcard,,Kenya,,35.1103736
+2024-10-05,43-1711169,Male,Adjustable Standing Desk,,2.8933688449,299.99,instapayment,,Kenya,,34.1114621
+2025-05-02,61-8956076,Male,Black Bean Soup,Food - Soups,51.1880514728,3.49,mastercard,,Kenya,-1.7864953,37.6311071
+2025-06-07,75-8577485,Male,Scented Soy Candles,Home,4.7443549409,19.99,visa,,Kenya,,
+2025-06-07,78-3287699,Male,Sweetened Condensed Milk,Food - Baking Goods,4.8705220686,1.89,,,Kenya,,
+2024-10-20,58-1015118,Female,Mini Waffle Maker,Kitchen,3.6191080411,24.99,instapayment,,Kenya,,37.2784835
+2025-01-17,99-7188112,Female,Smart Scale,Health,5.4285841947,59.99,bankcard,,Kenya,,35.1103736
+2024-09-14,17-8439430,Female,Tailored Blazer,Clothing - Outerwear,8.8595727631,99.99,,,Kenya,-0.1634664,35.5931397
+2024-09-06,28-4253270,Female,Whisk Set,Kitchen,21.7667855351,12.99,americanexpress,,Kenya,,
+2024-03-16,74-8052003,Male,Kids' Gardening Kit,,18.1370788643,24.99,americanexpress,,Kenya,0.2198155,34.4918988
+2023-12-28,56-9081736,Male,Crispy Tofu Bites,Food - Protein,8.9577133894,4.99,,,Kenya,0.355636,
+2025-05-24,54-2495238,Male,Throw Pillow Covers,Home,9.6676116817,22.99,americanexpress,,Kenya,0.4607691,34.1114621
+2024-02-08,07-9158438,Female,Pressure Cooker,Kitchen,0.6021139399,89.0,,,Kenya,-3.5106508,
+2024-01-21,13-7082525,Male,Cheesy Cauliflower Bake,Food - Frozen Vegetables,3.884052412,5.49,bankcard,,Kenya,,
+2024-04-03,97-2407424,Male,Spicy Thai Noodles,Food - Frozen Meals,8.1408660168,1.99,bankcard,,Kenya,,
+2024-12-25,79-5156027,Male,Pasta Sauce Mix,Food - Sauces,0.081424113,1.29,instapayment,,Kenya,,
+2025-06-11,22-4527279,Male,High-Top Leather Boots,Clothing - Footwear,6.144706551,99.99,visa,,Kenya,,37.9952144
+2024-08-10,73-2508457,Male,Cranberry Juice,Food - Beverages,5.1425078328,3.69,instapayment,,Kenya,,
+2023-11-01,97-6495631,Male,Foam Building Blocks for Kids,Toys,4.4115453892,22.99,,,Kenya,,
+2024-10-12,34-0609622,Male,Lemon Garlic Marinade,Food - Condiments,9.6279743651,4.29,visa,,Kenya,,34.9458389
+2025-08-23,11-6617149,Male,Crispy Onion Rings,Food - Frozen Foods,23.4130089162,4.29,mastercard,,Kenya,-3.2191864,
+2025-05-19,44-5974339,Female,Chocolate Chip Pancake Mix,Food - Bakery,16.3838353072,3.99,americanexpress,,Kenya,-1.1748105,
+2023-11-04,32-4304353,Male,Overnight Hiking Backpack,Outdoor,2.3951925787,79.99,americanexpress,,Kenya,,34.779603
+2024-09-11,92-7945471,Female,Kettle BBQ Grill,Outdoor,0.0854354436,99.99,americanexpress,,Kenya,-0.272699,
+2024-03-05,35-9578590,Female,A-Line Skirt,Clothing - Bottoms,5.1583670893,35.99,,,Kenya,,
+2025-06-27,,Male,Smartphone Gimbal Stabilizer,Photography,2.2774507464,89.99,visa,,Kenya,-0.5388381,37.4596409
+2024-08-20,16-5249995,Male,Thai Green Curry Paste,Food - Sauces,5.5819035485,2.49,,,Kenya,,
+2025-04-24,91-6466134,Male,Baking Soda,Food - Baking,3.1877107476,0.99,,,Kenya,,
+2025-08-21,73-0100139,Male,Educational STEM Kit,Toys,7.4476633996,35.99,bankcard,,Kenya,0.6812449,
+2025-03-16,62-2741553,Female,Cinnamon Sugar Donuts,Food - Bakery,39.5226762197,4.99,,,Kenya,,37.1097748
+2023-12-23,87-0973194,Female,Lemon Herb Quinoa,Food - Grains,3.0816956655,3.49,mastercard,,Kenya,0.355636,37.5833061
+2024-09-18,50-9149617,Male,Teriyaki Sauce,Food - Condiments,13.4991120365,2.99,,,Kenya,,36.8219462
+2024-10-23,25-3451635,Male,Natural Soy Candles,Home,0.2043058647,19.99,mastercard,,Kenya,,
+2024-01-22,66-2994553,Male,Pet Nail Clipper,Pets,9.1723863306,12.99,visa,,Kenya,0.2198155,
+2025-09-09,03-0953507,Female,Teriyaki Chicken Wings,Food - Frozen Food,7.7425273487,10.99,americanexpress,,Kenya,-0.0998238,34.2747004
+2024-04-23,60-2407471,Male,Bock Beer Mustard,Food - Condiments,14.4026830333,2.29,mastercard,,Kenya,3.1155165,35.6040785
+2025-07-19,53-5379969,Male,Fitness Resistance Bands Kit,Fitness,1.0284557572,29.99,mastercard,,Kenya,,
+2024-11-22,71-7117183,Male,Lemon Pepper Seasoning,Food - Seasonings,17.7677251127,3.29,visa,,Kenya,0.2827307,34.7518631
+2023-11-23,80-9301632,Male,Almond Milk,Food - Dairy,1.0518755312,3.29,instapayment,,Kenya,-0.7134403,37.0373502
+2024-10-25,65-0990261,Male,Electric Kettle with Temperature Control,Kitchen,19.0913195185,49.99,visa,,Kenya,,
+2024-03-21,45-0507460,Male,Spicy Salsa Verde,Food - Condiments,6.5217254214,3.49,mastercard,,Kenya,,
+2024-08-31,67-5856906,Female,Portable Bluetooth Speaker,,0.8998524839,49.99,instapayment,,Kenya,,
+2023-10-31,,Female,Chili Lime Corn Chips,,6.6102578718,2.79,bankcard,,Kenya,-0.1566093,35.1983598
+2024-04-20,93-9696269,Male,Herb-Infused Olive Oil,Food - Oils,3.6500162787,8.99,bankcard,,Kenya,-0.0998238,
+2024-03-16,04-8123406,Male,Coconut Macaroons,Food - Confectionery,2.4671320908,4.99,,,Kenya,,
+2025-06-29,47-9487487,Female,Field Journal,Books,23.8819766894,14.99,bankcard,,Kenya,-1.1748105,
+2025-02-23,69-6995845,Male,Children's Backpack,Accessories,1.7347421098,29.99,,,Kenya,-4.0434771,
+2025-07-15,51-6545636,Male,Adjustable Standing Desk,Office,5.3749268556,299.99,bankcard,,Kenya,,37.0833753
+2025-09-09,59-8860525,Male,Fishing Tackle Box,Outdoor,20.5206134913,24.99,,,Kenya,0.5695252,
+2024-06-25,09-5296741,Male,Microfiber Cleaning Cloths,Home,1.1139570405,9.99,bankcard,,Kenya,-0.272699,
+2025-01-14,48-2756278,Male,Sweet BBQ Dipping Sauce,Food - Condiments,11.1419100335,3.49,,,Kenya,,34.2747004
+2024-06-20,52-7374337,Female,Kale Salad with Lemon Dressing,Food - Salads,2.1196679015,4.99,americanexpress,,Kenya,,
+2024-06-08,55-4370449,Male,Measuring Cups Set,Kitchen,10.009148923,19.99,,,Kenya,,
+2025-06-01,78-5446628,Male,Whole Wheat Bread,Food - Bakery,3.0899944162,2.49,,,Kenya,1.0784436,34.1810057
+2025-01-05,44-3547994,Male,Beef Taco Skillet,Food - Meal Kits,4.2854795844,8.49,mastercard,,Kenya,,36.3642919
+2025-08-08,21-7280800,Female,Handmade Wooden Utensil Set,Kitchen,5.1206220121,24.99,americanexpress,,Kenya,,34.4530968
+2025-09-05,50-5370125,Male,Pest Control Traps,Home,18.5273535692,22.99,bankcard,,Kenya,,36.080026
+2024-10-31,25-5866216,Male,Electric Butter Churn,,12.1366823889,49.99,visa,,Kenya,,34.7518631
+2024-01-24,61-2220332,Male,Avocado Oil Mayo,Food - Condiments,0.4986133591,5.29,bankcard,,Kenya,-3.3973104,
+2023-12-17,36-2281786,Female,Memory Foam Mattress Pad,Home,0.6041720638,69.99,bankcard,,Kenya,,37.9943453
+2024-06-07,29-3606171,Female,Kids' Activity Book,,16.3771583231,14.99,instapayment,,Kenya,,37.5833061
+2023-11-30,76-3240399,Male,Vintage Graphic Tee,Clothing - Tops,13.829069835,25.99,mastercard,,Kenya,-1.7864953,37.6311071
