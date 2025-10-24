@@ -107,8 +107,8 @@ Both charts were created using **Seaborn** and **Matplotlib**, and clearly show 
 ## Steps to Run the Project
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/<your-username>/DSA2040A_ET_Exam_<YourName>_<ID3>
-   cd DSA2040A_ET_Exam_<YourName>_<ID3>
+   git clone https://github.com/Mponzi17/DSA2040A_ET_Exam_Mponzi
+   cd DSA2040A_ET_Exam_Mponzi
    ```
 2. Open the notebooks in Jupyter:
    ```bash
