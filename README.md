@@ -131,22 +131,24 @@ print(pd.read_sql('PRAGMA table_info(full_data)', conn))
 - Record counts matched CSV file lengths  
 - `PRAGMA` checks confirmed correct data types and column names  
 
-Full data columns and types: 
-   cid      name  type  notnull dflt_value  pk
-0    0   country  TEXT        0       None   0
-1    1  category  TEXT        0       None   0
-2    2   revenue  REAL        0       None   0
+### 🧾 Verification Output
+```text
+Full data columns and types:
+   cid      name   type  notnull  dflt_value   pk
+0    0   country   TEXT        0        None   0
+1    1  category   TEXT        0        None   0
+2    2   revenue   REAL        0        None   0
 
 Full data record count: 2823
 
-Incremental data columns and types: 
-   cid            name  type  notnull dflt_value  pk
-0    0  payment_method  TEXT        0       None   0
-1    1        category  TEXT        0       None   0
-2    2         revenue  REAL        0       None   0
+Incremental data columns and types:
+   cid            name   type  notnull  dflt_value   pk
+0    0  payment_method   TEXT        0        None   0
+1    1        category   TEXT        0        None   0
+2    2         revenue   REAL        0        None   0
 
 Incremental data record count: 362
-
+```
 ---
 
 ### ⚠️ Issues Faced & Resolutions
