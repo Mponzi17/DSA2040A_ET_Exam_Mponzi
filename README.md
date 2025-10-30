@@ -94,6 +94,74 @@ Both charts were created using **Seaborn** and **Matplotlib**, and clearly show 
 
 ---
 
+### 🗄️ Load Process
+The data was stored using **SQLite**, a lightweight relational database format that ensures portability and easy integration with analytical tools.
+
+**Steps:**
+1. Created a database connection:
+   ```python
+   import sqlite3 as sql
+   conn = sql.connect('loaded/full_data.db')
+   ```
+2. Loaded the transformed CSV files into database tables:
+   ```python
+   df_full.to_sql('full_data', conn, if_exists='replace', index=False)
+   df_incremental.to_sql('incremental_data', conn, if_exists='replace', index=False)
+   ```
+3. Committed changes and saved the `.db` file in the `/loaded/` folder.
+
+**Tables Created:**
+- `full_data` – Complete transformed dataset  
+- `incremental_data` – Recent transactions subset
+
+---
+
+### 🔍 Verification
+
+To verify that data was successfully loaded and retained its structure, several SQL queries were executed:
+
+```python
+print(pd.read_sql('SELECT * FROM full_data LIMIT 10', conn))
+print(pd.read_sql('SELECT COUNT(*) FROM full_data', conn))
+print(pd.read_sql('PRAGMA table_info(full_data)', conn))
+```
+
+✅ **Verification Outputs:**
+- Top 10 rows from both tables displayed successfully  
+- Record counts matched CSV file lengths  
+- `PRAGMA` checks confirmed correct data types and column names  
+
+Full data columns and types: 
+   cid      name  type  notnull dflt_value  pk
+0    0   country  TEXT        0       None   0
+1    1  category  TEXT        0       None   0
+2    2   revenue  REAL        0       None   0
+
+Full data record count: 2823
+
+Incremental data columns and types: 
+   cid            name  type  notnull dflt_value  pk
+0    0  payment_method  TEXT        0       None   0
+1    1        category  TEXT        0       None   0
+2    2         revenue  REAL        0       None   0
+
+Incremental data record count: 362
+
+---
+
+### ⚠️ Issues Faced & Resolutions
+| Issue | Cause | Resolution |
+|-------|--------|-------------|
+| `OperationalError: table already exists` | Tables were pre-existing from earlier runs | Used `if_exists='replace'` in `to_sql()` to overwrite safely |
+| Path errors in early testing | Relative paths not matching Jupyter’s working directory | Verified and fixed using consistent `/transformed/` and `/loaded/` paths |
+
+---
+
+**Result:**  
+The ETL pipeline now ends with a fully populated SQLite database containing clean, validated, and query-ready data.
+
+---
+
 ## Tools Used
 - **Python 3**
 - **Jupyter Notebook**
